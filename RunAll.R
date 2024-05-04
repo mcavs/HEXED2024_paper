@@ -1,5 +1,6 @@
 # Follow the codes to run the experiment
 
+source("install_packages.R")
 source("data_import.R")
 source("data_preprocess.R")
 source("data_splitting.R")
