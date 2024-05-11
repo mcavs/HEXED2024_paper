@@ -41,7 +41,7 @@ You can used pre-saved experiments results in the files `data_rashomon.csv` and 
 
 
 ### Figure 3
-The zone plot of the Rashomon metrics ambiguity and discrepancy for different balancing methods and various resampling ratios. The zones show two-dimensional regions where metrics’ values are dense. The value of 1.25 means the frequency of the majority class over the frequency of the minority class. Zones being close to zero on both axes indicate low severity of multiplicity, and moving away from them indicates increasing severity of multiplicity.
+The averages of the quality metrics for the methods.
 
 <img src="https://github.com/mcavs/HEXED2024_paper/blob/main/Plots/plot1.png" width="800">
 
@@ -51,7 +51,7 @@ Run [rashomon_plots.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Pap
 
 
 ### Figure 4 
-The distribution plots of the Rashomon metrics ambiguity and discrepancy for different balancing methods. The plots consist of the results of the statistical tests Kruskal Wallis and Dunn’s Pairwise tests. The reference bars above each violin indicate statistically significant differences between the medians of groups and the corresponding statistical information.
+The distributions of the quality metrics for the methods
 
 <img src="https://github.com/mcavs/HEXED2024_paper/blob/main/Plots/plot2.png" width="800">
 
