@@ -15,29 +15,22 @@ This repository consists the supplemental materials of the paper "".
 ## Data 
 We used the Open University Learning Analytics dataset - information about 22 courses, 32,593 students, their assessment results, and logs of their interactions with the virtual learning environment. It is collected in the Open University from 2013 and 2014. We followed the same way in the variable and data selection in [Ramos et al. (2023)](). We used the dataset for a STEM course, named `FFF` in the original data source, conducted in 2013 with 2,283 students. It consists of 14 predictors, 6 of which are categorical variables encoded numerically given in the following table. The target is a binary variable `status` consisting of `pass` and `fail`. It is converted from the `score` variable in the original dataset which ranges between 0 and 100. A score lower than 40 is coded as a `fail`.
 
-| Dataset            | Imbalanced ratio | #Samples | #Variables |
-|--------------------|------------------|----------|------------|
-| spambase           | 1.54             | 4601     | 55         |
-| MagicTelescope     | 1.84             | 19020    | 10         |
-| steel-plates-fault | 1.88             | 1941     | 13         |
-| qsar-biodeg        | 1.96             | 1055     | 17         |
-| phoneme            | 2.41             | 5404     | 5          |
-| jm1                | 4.17             | 10880    | 17         |
-| SpeedDating        | 4.63             | 1048     | 18         |
-| kc1                | 5.47             | 2109     | 17         |
-| churn              | 6.07             | 5000     | 8          |
-| pc4                | 7.19             | 1458     | 12         |
-| pc3                | 8.77             | 1563     | 14         |
-| abalone            | 9.68             | 4177     | 7          |
-| us_crime           | 12.29            | 1994     | 100        |
-| yeast_ml8          | 12.58            | 2417     | 103        |
-| pc1                | 13.40            | 1109     | 17         |
-| ozone-level-8hr    | 14.84            | 2534     | 72         |
-| wilt               | 17.54            | 4839     | 5          |
-| wine_quality       | 25.77            | 4898     | 11         |
-| yeast_me2          | 28.10            | 1484     | 8          |
-| mammography        | 42.01            | 11183    | 6          |
-| abalone_19         | 129.53           | 4177     | 7          |
+| Variable                | Description                                                                         | Class        | Values          |
+|-------------------------|-------------------------------------------------------------------------------------|--------------|-----------------|
+| gender                  | student’s gender                                                                    | categorical  | {0, 1}          |
+| region                  | the geographic region, where the student lived while taking the module presentation | categorical  | {1, 2, ..., 13} |
+| education               | the highest student education level on entry to the module presentation             | categorical  | {1, 2, ..., 5}  |
+| imd_band                | the IMD band of the place where the student lived during the module presentation    | categorical  | {1, 2, ..., 10} |
+| age_band                | a band of student’s age                                                             | categorical  | {1, 2, 3}       |
+| num_of_prev_attempts    | the number of how many times the student has attempted this module                  | numeric      | [0, 4]          |
+| credits                 | the total number of credits for the modules the student is currently studying       | numeric      | [60, 360]       |
+| disability              | indicates whether the student has declared a disability                             | categorical  | {0, 1}          |
+| assessment_results      | the weighted sum of all previous assessments                                        | numeric      | [24.25, 72.75]  |
+| n\_clicks\_disc\_forum  | the number of clicks on discussion forum                                            | numeric      | [0, 7670]       |
+| n\_clicks\_disc\_hpage  | the number of clicks on discussion homepage                                         | numeric      | [4, 3150]       |
+| n\_clicks\_assignments  | the number of clicks on assignments                                                 | numeric      | [0, 7193]       |
+| n\_clicks\_quizzes      | the number of clicks on quizzes                                                     | numeric      | [0, 4857]       |
+| n\_clicks\_course\_page | the number of clicks on course page                                                 | numeric      | [0, 1196]       |
 
 It is one of the imbalanced benchmark datasets consists several data from the various domains. The imbalance ratio (`#Samples in majority class` / `#Samples in minority class`) of the datasets varies between $1.54$ and $129.53$.
 
