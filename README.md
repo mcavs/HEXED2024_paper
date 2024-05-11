@@ -50,9 +50,7 @@ The averages of the quality metrics for the methods.
 
 <img src="https://github.com/mcavs/HEXED2024_paper/blob/main/Plots/plot1.png" width="800">
 
-Run [rashomon_plots.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/rashomon_plots.R) to reproduce `Figure 2`.
-
-(!) This figure can be repruduced using the `data_rashomon.csv`.
+Run [plot.R](https://github.com/mcavs/HEXED2024_paper/blob/main/plot.R) to reproduce `Figure 3`.
 
 
 ### Figure 4 
@@ -60,7 +58,6 @@ The distributions of the quality metrics for the methods
 
 <img src="https://github.com/mcavs/HEXED2024_paper/blob/main/Plots/plot2.png" width="800">
 
-Run [ggstatsplots_on_Rash_stats.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/ggstatsplots_on_Rash_stats.R) to reproduce `Figure 3`.
+Run [plot.R](https://github.com/mcavs/HEXED2024_paper/blob/main/plot.R) to reproduce `Figure 4`.
 
-(!) This figure can be repruduced using the `data_rashomon.csv`.
 
