@@ -1,19 +1,21 @@
 # The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods
 
-This repository consists the supplemental materials of the paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods". 
+This repository consists the supplemental materials of the paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods". The following steps can be runned to reproduce the result in the paper:
 
-source("install_packages.R")
-source("data_import.R")
-source("data_preprocess.R")
-source("data_splitting.R")
-source("modeling_with_ranger.R")
-source("MOC.R")
-source("NiCE_pr.R")
-source("NiCE_sp.R")
-source("WhatIf.R")
-source("combine_evals.R")
-source("plot.R")
-source("test.R")
+1. Install the essential packages [install_packages.R](https://github.com/mcavs/HEXED2024_paper/blob/main/install_packages.R)
+2. Import the dataset [data_import.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_import.R)
+3. Preprocess the imported dataset [data_preprocess.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_preprocess.R)
+4. Split the dataset as train and test set [data_splitting.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_splitting.R)
+5. Train a random forest model on the train set [modeling_with_ranger.R](https://github.com/mcavs/HEXED2024_paper/blob/main/modeling_with_ranger.R)
+6. Generate counterfactuals using the MOC method [modeling_with_ranger.R](https://github.com/mcavs/HEXED2024_paper/blob/main/MOC.R)
+7. Generate counterfactuals using the NICE method based on proximity [NiCE_pr.R](https://github.com/mcavs/HEXED2024_paper/blob/main/NiCE_pr.R)
+8. Generate counterfactuals using the NICE method based on sparsity [NiCE_sp.R](https://github.com/mcavs/HEXED2024_paper/blob/main/NiCE_sp.R)
+9. Generate counterfactuals using the WI method [WhatIf.R](https://github.com/mcavs/HEXED2024_paper/blob/main/WhatIf.R)
+10. Combine the evaluation metrics on the generated counterfactuals [combine_evals.R](https://github.com/mcavs/HEXED2024_paper/blob/main/combine_evals.R)
+11. Summarize the results in plots [plot.R](https://github.com/mcavs/HEXED2024_paper/blob/main/plot.R)
+12. Conduct the statistical hypothesis tests on the results [test.R](https://github.com/mcavs/HEXED2024_paper/blob/main/test.R)
+
+The steps above can be runned simply as in [RunAll.R](https://github.com/mcavs/HEXED2024_paper/blob/main/RunAll.R)
   
 ## Data 
 We used the Open University Learning Analytics dataset - information about 22 courses, 32,593 students, their assessment results, and logs of their interactions with the virtual learning environment. It is collected in the Open University from 2013 and 2014. We followed the same way in the variable and data selection in [Ramos et al. (2023)](). We used the dataset for a STEM course, named `FFF` in the original data source, conducted in 2013 with 2,283 students. It consists of 14 predictors, 6 of which are categorical variables encoded numerically given in the following table. The target is a binary variable `status` consisting of `pass` and `fail`. It is converted from the `score` variable in the original dataset which ranges between 0 and 100. A score lower than 40 is coded as a `fail`.
