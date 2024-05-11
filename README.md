@@ -1,6 +1,6 @@
 # The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods
 
-This repository consists the supplemental materials of the paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods". The following steps can be runned to reproduce the result in the paper:
+This repository consists the supplemental materials of the paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods" which is submitted to [Human-Centric eXplainable AI in Education Workshop](https://hexed-workshop.github.io/) will be held in conjunction with EDM (Educational Data Mining) 2024. The following steps can be runned to reproduce the result in the paper:
 
 1. Install the essential packages [install_packages.R](https://github.com/mcavs/HEXED2024_paper/blob/main/install_packages.R)
 2. Import the dataset [data_import.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_import.R)
