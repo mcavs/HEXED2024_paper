@@ -13,7 +13,7 @@ This repository consists the supplemental materials of the paper "".
     - These files can be used to reproduce the following plots.
   
 ## Data 
-The Rashomon set is created on the tasks within the imbalanced benchmark dataset provided in the following table. 
+We used the Open University Learning Analytics dataset - information about 22 courses, 32,593 students, their assessment results, and logs of their interactions with the virtual learning environment. It is collected in the Open University from 2013 and 2014. We followed the same way in the variable and data selection in [Ramos et al. (2023)](). We used the dataset for a STEM course, named `FFF` in the original data source, conducted in 2013 with 2,283 students. It consists of 14 predictors, 6 of which are categorical variables encoded numerically given in the following table. The target is a binary variable `status` consisting of `pass` and `fail`. It is converted from the `score` variable in the original dataset which ranges between 0 and 100. A score lower than 40 is coded as a `fail`.
 
 | Dataset            | Imbalanced ratio | #Samples | #Variables |
 |--------------------|------------------|----------|------------|
