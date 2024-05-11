@@ -1,16 +1,19 @@
-# The Supplemental Materials of the Paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods"
+# The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods
 
-This repository consists the supplemental materials of the paper "". 
+This repository consists the supplemental materials of the paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods". 
 
-1. Install the essential packages [install_packages.R](https://github.com/mcavs/HEXED2024_paper/blob/main/install_packages.R)
-2. Import datasets [import_datasets.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/import_dataset.R)
-3. Run the essential functions to calculate Rashomon metrics [ambiguity.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/ambiguity.R) and [discrepancy.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/discrepancy.R)
-4. Run the `balance()` function to balance the imbalanced datasets [balance.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/balance.R)
-5. Run the `rashomon_set()` function to create a Rashomon set for a dataset [rashomon_set.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/rashomon_set.R)
-6. Run the experiments on the datasets for various resampling ratios [experiments.R](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper/blob/main/experiments.R)
-    - This step may takes long regarding to the computation power.
-    - For this, we stored the results of experiments as `data_rashomon.csv` and `data_VDisc.csv`.
-    - These files can be used to reproduce the following plots.
+source("install_packages.R")
+source("data_import.R")
+source("data_preprocess.R")
+source("data_splitting.R")
+source("modeling_with_ranger.R")
+source("MOC.R")
+source("NiCE_pr.R")
+source("NiCE_sp.R")
+source("WhatIf.R")
+source("combine_evals.R")
+source("plot.R")
+source("test.R")
   
 ## Data 
 We used the Open University Learning Analytics dataset - information about 22 courses, 32,593 students, their assessment results, and logs of their interactions with the virtual learning environment. It is collected in the Open University from 2013 and 2014. We followed the same way in the variable and data selection in [Ramos et al. (2023)](). We used the dataset for a STEM course, named `FFF` in the original data source, conducted in 2013 with 2,283 students. It consists of 14 predictors, 6 of which are categorical variables encoded numerically given in the following table. The target is a binary variable `status` consisting of `pass` and `fail`. It is converted from the `score` variable in the original dataset which ranges between 0 and 100. A score lower than 40 is coded as a `fail`.
