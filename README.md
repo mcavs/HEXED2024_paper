@@ -37,7 +37,7 @@ We used the Open University Learning Analytics dataset - information about 22 co
 | n\_clicks\_quizzes      | the number of clicks on quizzes                                                     | numeric      | [0, 4857]       |
 | n\_clicks\_course\_page | the number of clicks on course page                                                 | numeric      | [0, 1196]       |
 
-
+The dataset given in `data/FFF_2013J_data.csv`. It can be prepared using the .Rmd file `data/data_preparation.Rmd`.
 
 ## Plots
 There are two plots `Figures 3` and `4` in the paper. 
