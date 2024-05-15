@@ -1,7 +1,4 @@
-# install.packages("dplyr")
-library(dplyr)
-
-data <- FFF_2013J_data.csv |> 
+data <- FFF_2013J_data |> 
   filter(final_result != "Distinction") |>
   select(gender, region, highest_education,
          imd_band, age_band, num_of_prev_attempts,
