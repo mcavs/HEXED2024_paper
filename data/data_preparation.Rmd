@@ -1,0 +1,206 @@
+---
+title: "Distributional regression analysis of learning analytics and educational data"
+subtitle: Data preparation
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+# Load required libraries
+```{r}
+# dataset
+devtools::install_github("jakubkuzilek/oulad", force = TRUE)
+library(oulad) # 
+
+# pipes
+library(magrittr)
+
+# data manipulation
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(purrr)
+
+# data storing
+library(readr)
+```
+
+# Selecting data
+We focused on the course "FFF" and its presentation "2013J": 
+```{r}
+module <- "FFF"
+presentation <- "2013J"
+
+# information about the course
+selected_course <-
+  course %>% 
+  filter(code_module == module, code_presentation == presentation)
+
+```
+
+The students who did not finished the course (actively withdrawn), were filtered out:
+```{r}
+# list of students
+selected_students <-
+  student %>% 
+  # filter students from the selected course/pres and finished the course
+  filter(code_module == module, 
+         code_presentation == presentation, 
+         final_result != "Withdrawn") %>% 
+  # drop the course identifiers ~ we focus on one course only
+  select(-code_module,
+         -code_presentation) 
+```
+
+The assessments needs to be reduced to the Tutor Marked Assigments only, because 
+they represent milestones in the course:
+```{r}
+# list of assessments
+selected_assessments <-
+  assessment %>% 
+  # filter assessments from the selected course/pres and focus on TMAs
+  filter(code_module == module, 
+         code_presentation == presentation,
+         assessment_type == "TMA") %>% 
+  # drop course identifiers
+  select(-code_module,
+         -code_presentation) %>% 
+  # transform cutoff day to the week ~ we focus on data on level of weeks
+  mutate(week = floor(date/7))  %>% 
+  # shift the assessment ids to something more meaningful 
+  mutate(id_assessment = id_assessment - 34872)
+
+# student assessment results
+selected_student_assessments <-
+  student_assessment %>% 
+  # shift the assessment ids to something more meaningful 
+  mutate(id_assessment = id_assessment - 34872) %>% 
+  # "filter the assessment to only assessments from selected course/pres
+  semi_join(selected_assessments, by = "id_assessment") %>% 
+  # select only relevant columns
+  select(id_assessment,id_student,score)
+
+```
+
+Virtual learning environment data needs to be filtered and transformed too:
+```{r}
+# list of relevant vle resources
+selected_vles <-
+  vle %>% 
+  # filter vle resources from the selected course/pres
+  filter(code_module == module, code_presentation == presentation) %>%
+  # remove irrelevant columns
+  select(-week_from, -week_to)
+
+# student vle interactions
+selected_student_vles <-
+  student_vle %>% 
+  # filter the interactions to selected 
+  inner_join(selected_vles) %>% 
+  # transform day of interaction to week
+  mutate(week = floor(date/7)) %>%
+  # select relevant columns
+  select(id_student, id_site, activity_type,week, sum_click) %>% 
+  group_by(id_student,id_site,activity_type,week) %>% 
+  # create interaction summary over the week 
+  summarise(sum_click = sum(sum_click)) %>% 
+  ungroup %>% 
+  # correct the date
+  mutate(week = week + 3) 
+```
+
+# Identification of top 5 VLE activities
+The identification is based on sum of number of clicks for the activity across 
+all students and weeks:
+```{r}
+# compute the total number of clicks
+total_clicks <-
+  selected_student_vles %>% 
+  summarise(sum(sum_click)) %>% 
+  extract2(1)
+
+# select top 5 activity types
+top_5_activity_types <-
+  selected_student_vles %>% 
+  group_by(activity_type) %>% 
+  # compute proportion of clicks in activity type
+  summarise(prop = sum(sum_click)/total_clicks) %>% 
+  # order descending
+  arrange(desc(prop)) %>% 
+  # select 5
+  top_n(5) %>% 
+  # extract them to the numeric vector
+  extract2(1) 
+```
+
+# Data merging
+We focus on the last TMA and it is considered as dependent variable. Then we need
+to select the VLE activity data before the TMA and merge all tibbles together. Finally,
+some transformations are required: weighted sum of TMA 1-4, summary of `activity_type` clicks
+in the VLE. Students, who did not submitted all assessments, were filtered.
+```{r}
+N <- 5
+
+# find cutoff week
+w <- 
+  selected_assessments %>% 
+  filter(id_assessment == N) %>% 
+  extract2("week") + 3
+
+# filter VLEs to the data from weeks before the assessment and to selected activity types
+filtered_vle <- 
+  selected_student_vles %>% 
+  filter(week <= w, activity_type %in% top_5_activity_types) 
+  
+final_data <-
+  selected_students %>% 
+  # connect students with their results
+  left_join(selected_student_assessments, by = "id_student") %>%
+  # split results into 5 columns
+  pivot_wider(names_from = id_assessment, 
+              names_prefix = "assessment_", 
+              values_from = score) %>% 
+  # remove column caused by missing results of students
+  select(-assessment_NA) %>%
+  # prepare variable indicating that student did not submit all assignments
+  rowwise() %>% 
+  mutate(filt = anyNA(c_across(starts_with("assessment")))) %>%
+  # filter students who did not submit all assignments
+  filter(filt == FALSE) %>%
+  select(-filt) %>% 
+  left_join(filtered_vle, by = "id_student") %>% 
+  # remove id_site, which is irrelevant for our study
+  select(-id_site) %>% 
+  # summarize the result of first 4 assignments
+  mutate(cummulative_assessment_results = 
+           0.125*assessment_1 + 
+           0.125*assessment_2 + 
+           0.25*assessment_3 + 
+           0.25*assessment_4) %>% 
+  select(-assessment_1,-assessment_2,-assessment_3,-assessment_4) %>% 
+  # rename dependent variable
+  rename(assessment_score = assessment_5) %>% 
+  # summarize the VLE activity for each student and activity_type
+  group_by(id_student, activity_type) %>% 
+  mutate(sum_click = sum(sum_click)) %>% 
+  ungroup() %>%
+  # final filtering
+  filter(week < 24) %>% 
+  select(-week) %>% 
+  distinct() %>% 
+  # correction of typo in the data
+  mutate(imd_band = if_else(imd_band == "10-20", "10-20%", imd_band)) %>% 
+  # split clicks into the 5 columns regarding the activity_types
+  pivot_wider(names_from = activity_type, 
+              names_prefix = "clicks_", 
+              values_from = sum_click, 
+              values_fill = 0) %>% 
+  # move dependent variable to the end of dataset
+  relocate(assessment_score, .after = last_col())
+```
+
+# Store the result
+```{r, eval=FALSE}
+write_csv(final_data, paste0(module, "_", presentation, "_data.csv"))
+```
+

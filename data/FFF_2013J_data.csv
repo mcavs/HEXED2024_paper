@@ -1,0 +1,1109 @@
+id_student,gender,region,highest_education,imd_band,age_band,num_of_prev_attempts,studied_credits,disability,final_result,cummulative_assessment_results,clicks_forumng,clicks_homepage,clicks_oucontent,clicks_quiz,clicks_subpage,assessment_score
+29335,M,West Midlands Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Distinction,70.75,1251,1213,2213,1100,547,97
+42616,F,Scotland,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,53.25,1182,591,550,125,192,82
+50487,F,East Anglian Region,Lower Than A Level,90-100%,0-35,1,60,FALSE,Pass,60.75,384,475,1593,914,377,89
+51485,M,West Midlands Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Distinction,68.5,77,209,1060,84,190,98
+51576,F,London Region,Lower Than A Level,10-20%,0-35,0,90,FALSE,Distinction,59.5,589,436,1882,1194,299,98
+53166,F,North Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,46.75,219,240,962,658,195,76
+54882,M,Scotland,Lower Than A Level,30-40%,0-35,1,60,FALSE,Fail,38,41,84,254,2,86,5
+57844,M,South West Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,56.75,23,116,588,12,130,86
+58640,M,Scotland,A Level or Equivalent,50-60%,0-35,0,90,TRUE,Pass,43.25,367,234,221,41,143,74
+66451,M,Scotland,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,55.75,160,103,79,0,132,87
+68107,F,London Region,A Level or Equivalent,50-60%,0-35,0,60,TRUE,Pass,66.75,236,288,1672,259,263,95
+70495,M,Scotland,Lower Than A Level,50-60%,0-35,0,60,FALSE,Distinction,64,799,613,1611,729,314,95
+71252,M,North Western Region,Lower Than A Level,0-10%,0-35,0,60,TRUE,Pass,56.75,99,87,78,0,82,82
+77744,M,North Western Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,61.25,90,308,626,556,246,84
+79261,M,South Region,A Level or Equivalent,90-100%,0-35,0,90,FALSE,Pass,61.5,161,223,433,1,146,82
+86669,M,East Midlands Region,A Level or Equivalent,40-50%,0-35,1,220,FALSE,Pass,67,449,179,594,622,156,82
+90901,M,South Region,HE Qualification,20-30%,35-55,0,120,FALSE,Distinction,64.25,89,163,694,0,132,91
+95746,M,East Anglian Region,A Level or Equivalent,80-90%,0-35,1,60,FALSE,Pass,59.5,1,42,124,0,24,82
+100064,F,West Midlands Region,A Level or Equivalent,0-10%,35-55,0,60,FALSE,Pass,69.75,504,581,2467,279,450,89
+100788,M,Scotland,HE Qualification,80-90%,0-35,0,90,FALSE,Pass,60.25,234,311,1066,341,172,87
+101420,M,Yorkshire Region,Lower Than A Level,30-40%,0-35,0,120,FALSE,Pass,69.25,348,590,1970,980,343,92
+102028,M,South Region,A Level or Equivalent,90-100%,35-55,1,60,FALSE,Distinction,65,814,487,1140,594,274,83
+102343,M,East Anglian Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,53.5,268,360,1193,1059,325,88
+104213,M,South West Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Distinction,68.5,141,193,808,314,180,98
+105629,M,South East Region,A Level or Equivalent,10-20%,35-55,0,60,FALSE,Pass,64.75,470,721,1742,1139,353,92
+110881,F,East Anglian Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,52.5,280,541,1371,735,305,82
+113565,M,Wales,A Level or Equivalent,80-90%,0-35,0,180,FALSE,Pass,67,173,186,516,0,251,83
+114500,M,London Region,Lower Than A Level,50-60%,35-55,0,120,TRUE,Fail,26.25,211,369,1274,516,236,64
+116808,M,Scotland,HE Qualification,80-90%,55<=,0,60,FALSE,Distinction,70,4884,1037,2106,437,545,95
+117232,M,Ireland,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,59,33,246,208,305,188,76
+118050,M,East Anglian Region,Lower Than A Level,60-70%,0-35,0,90,FALSE,Pass,49.75,234,126,110,65,59,80
+127642,F,Yorkshire Region,A Level or Equivalent,20-30%,35-55,1,120,FALSE,Pass,60.75,116,210,510,189,164,88
+132453,M,East Midlands Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,41.25,96,111,311,0,183,66
+133019,M,Wales,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,58,446,348,1309,440,353,94
+133185,M,East Anglian Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,64,318,527,1139,533,300,79
+136894,M,West Midlands Region,A Level or Equivalent,40-50%,0-35,0,90,TRUE,Pass,51.75,512,388,620,702,167,53
+137903,M,South East Region,Lower Than A Level,90-100%,35-55,1,60,FALSE,Pass,41.5,646,796,2156,80,382,51
+139190,M,East Midlands Region,Lower Than A Level,50-60%,0-35,0,150,FALSE,Pass,63,201,416,833,713,151,91
+141648,F,South Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,61.75,735,598,1134,592,453,85
+146738,M,East Anglian Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Distinction,65.75,169,312,1723,328,283,93
+152587,F,South Region,Lower Than A Level,40-50%,35-55,1,90,FALSE,Pass,56.25,639,495,1766,745,383,81
+154059,M,East Anglian Region,A Level or Equivalent,60-70%,0-35,0,180,FALSE,Pass,37.25,73,140,365,27,126,63
+154191,M,Scotland,Lower Than A Level,30-40%,35-55,0,60,FALSE,Distinction,64.75,124,275,837,510,174,89
+155298,M,South Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,59.75,54,121,572,307,105,83
+156171,M,South West Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,53,217,161,563,817,159,76
+160946,M,South Region,HE Qualification,90-100%,0-35,0,60,FALSE,Pass,60.75,52,68,306,0,117,77
+162809,M,Yorkshire Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,58.5,349,357,478,815,152,89
+163120,M,Scotland,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Pass,56.75,872,310,979,161,250,86
+168229,M,North Western Region,A Level or Equivalent,70-80%,35-55,0,90,FALSE,Distinction,70.5,933,753,2302,1072,570,98
+170030,M,Wales,HE Qualification,20-30%,0-35,1,60,FALSE,Distinction,69,55,158,474,3,161,73
+170943,M,London Region,A Level or Equivalent,60-70%,0-35,1,150,FALSE,Pass,58.75,211,319,717,650,291,81
+171692,F,Wales,A Level or Equivalent,0-10%,0-35,0,90,FALSE,Fail,34.75,171,212,389,98,180,65
+175453,M,Scotland,HE Qualification,30-40%,0-35,0,60,FALSE,Pass,48.75,91,144,157,660,165,62
+177568,M,South Region,A Level or Equivalent,80-90%,0-35,2,60,FALSE,Pass,60.5,37,47,142,2,65,45
+180974,M,South West Region,A Level or Equivalent,40-50%,35-55,1,60,FALSE,Pass,53,152,576,1627,786,274,82
+184473,M,Scotland,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,33.25,159,82,215,0,50,51
+187199,M,North Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,57.75,82,154,425,422,123,83
+192680,M,South West Region,Lower Than A Level,30-40%,0-35,0,90,FALSE,Pass,61.75,542,455,1211,615,363,95
+199361,M,North Western Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Distinction,65.5,576,473,963,989,200,87
+228695,M,East Midlands Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Pass,50.5,95,89,389,0,88,56
+231024,M,South Region,Lower Than A Level,80-90%,35-55,0,60,TRUE,Pass,37.25,327,82,668,1203,397,48
+231606,M,Wales,Lower Than A Level,60-70%,35-55,0,60,FALSE,Fail,46.75,353,420,2252,1072,481,65
+232347,M,South Region,A Level or Equivalent,60-70%,0-35,0,180,FALSE,Pass,61.25,165,455,1136,583,247,81
+232660,F,East Anglian Region,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Distinction,70.5,1055,738,1134,862,250,91
+232764,F,West Midlands Region,A Level or Equivalent,60-70%,0-35,2,90,FALSE,Pass,55.75,401,424,830,570,216,71
+232856,M,East Anglian Region,Lower Than A Level,80-90%,35-55,0,60,FALSE,Distinction,64,268,486,1816,620,465,87
+233087,M,East Midlands Region,A Level or Equivalent,80-90%,0-35,0,90,TRUE,Distinction,71.5,792,531,1200,2330,359,96
+235670,M,London Region,Lower Than A Level,80-90%,35-55,0,90,FALSE,Pass,57.75,67,219,222,453,111,74
+235978,M,London Region,A Level or Equivalent,60-70%,35-55,0,90,FALSE,Pass,60,415,545,2302,574,453,88
+238150,M,Scotland,A Level or Equivalent,80-90%,35-55,0,60,FALSE,Pass,63.75,5237,117,2461,852,404,89
+241039,M,West Midlands Region,Lower Than A Level,40-50%,35-55,0,60,FALSE,Pass,53.25,283,327,590,124,306,81
+242491,M,East Midlands Region,A Level or Equivalent,0-10%,0-35,1,120,TRUE,Distinction,66,127,418,1181,615,222,91
+245283,M,London Region,A Level or Equivalent,0-10%,35-55,0,120,FALSE,Pass,58.75,153,240,886,274,158,79
+248882,M,London Region,HE Qualification,20-30%,35-55,0,60,FALSE,Pass,64,1420,701,1790,475,540,84
+249750,F,Scotland,HE Qualification,10-20%,0-35,0,90,FALSE,Pass,53.5,212,124,307,307,170,56
+251405,M,South West Region,A Level or Equivalent,50-60%,0-35,1,60,FALSE,Pass,63,125,170,847,350,216,47
+253767,M,South East Region,A Level or Equivalent,90-100%,0-35,0,270,FALSE,Pass,49.5,14,221,1079,507,237,64
+254446,M,East Anglian Region,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Pass,61.5,414,405,849,886,244,82
+255310,M,East Midlands Region,HE Qualification,80-90%,0-35,0,90,FALSE,Pass,58.25,591,352,1175,369,259,89
+262403,F,South Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,49.25,44,438,1621,518,286,74
+264164,M,Scotland,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Distinction,65,81,84,243,2,118,93
+265268,M,North Western Region,Lower Than A Level,60-70%,0-35,1,120,FALSE,Pass,60,1005,623,1266,470,282,93
+265978,M,North Region,Lower Than A Level,NA,35-55,0,60,FALSE,Pass,51,31,108,221,79,118,84
+268153,M,North Western Region,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Pass,51.25,361,522,886,674,255,70
+269508,M,Ireland,HE Qualification,NA,35-55,0,60,FALSE,Pass,70.25,279,198,662,362,190,100
+273442,M,North Region,A Level or Equivalent,NA,0-35,0,60,FALSE,Pass,60.75,333,410,846,719,287,83
+273782,M,Wales,HE Qualification,90-100%,35-55,0,60,FALSE,Pass,65.25,629,629,868,504,293,94
+276388,M,South East Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,46.75,275,380,505,656,204,44
+276808,F,North Western Region,A Level or Equivalent,10-20%,0-35,1,60,FALSE,Pass,64,138,223,1038,0,199,77
+278955,M,East Midlands Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,62.25,21,117,228,76,67,86
+279085,M,London Region,HE Qualification,80-90%,35-55,0,60,FALSE,Pass,56.75,401,324,1589,519,334,73
+279750,M,Scotland,Lower Than A Level,60-70%,35-55,0,60,FALSE,Pass,63.75,862,952,1906,205,527,92
+281638,F,Ireland,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,60,362,414,737,465,176,85
+282975,F,London Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,54.75,251,356,1106,752,273,88
+283953,F,London Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Distinction,67,313,395,1220,122,236,88
+284395,M,London Region,A Level or Equivalent,30-40%,35-55,1,60,FALSE,Pass,51.5,244,492,1726,478,339,91
+289221,F,South Region,A Level or Equivalent,80-90%,0-35,0,90,FALSE,Pass,33.75,267,588,2281,1053,414,62
+289304,M,Yorkshire Region,Lower Than A Level,0-10%,35-55,0,90,TRUE,Pass,51,184,221,1143,189,208,72
+290521,M,London Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Pass,42.25,61,88,625,170,119,53
+291237,M,Yorkshire Region,A Level or Equivalent,80-90%,0-35,0,180,FALSE,Distinction,65.25,252,600,1046,8,222,88
+291745,M,Scotland,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Distinction,66.25,4183,1483,2269,1215,583,94
+295255,M,Ireland,A Level or Equivalent,NA,0-35,0,60,FALSE,Pass,39,860,554,968,5,263,62
+299281,M,North Region,A Level or Equivalent,NA,0-35,1,60,FALSE,Pass,57.75,362,576,1561,550,276,78
+299886,F,Yorkshire Region,Lower Than A Level,20-30%,35-55,0,210,FALSE,Pass,62,402,411,1395,656,288,91
+304240,M,South East Region,A Level or Equivalent,80-90%,0-35,0,90,FALSE,Pass,55.5,181,91,175,84,109,91
+304589,M,West Midlands Region,A Level or Equivalent,30-40%,35-55,0,120,FALSE,Distinction,72,855,494,1429,295,221,100
+305858,F,West Midlands Region,A Level or Equivalent,70-80%,0-35,0,90,TRUE,Pass,59.75,173,248,457,613,194,90
+307245,M,North Region,Lower Than A Level,70-80%,0-35,2,60,FALSE,Fail,49,144,103,462,130,122,53
+309893,M,North Western Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,55,182,328,870,353,215,78
+310646,M,Yorkshire Region,Lower Than A Level,10-20%,0-35,0,90,FALSE,Pass,62.75,93,179,585,239,163,31
+314776,M,East Anglian Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,68.5,654,647,1031,705,334,73
+315808,M,South East Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Distinction,64,112,480,2491,534,397,85
+316098,M,South Region,A Level or Equivalent,40-50%,0-35,1,60,FALSE,Pass,60.75,154,365,398,160,211,55
+316541,F,Scotland,HE Qualification,30-40%,0-35,0,120,FALSE,Distinction,62.5,744,447,2230,56,194,90
+318627,M,East Midlands Region,HE Qualification,90-100%,35-55,0,60,FALSE,Distinction,63.75,793,606,1552,214,287,89
+319578,M,East Midlands Region,Lower Than A Level,10-20%,35-55,1,90,FALSE,Pass,58.25,381,558,1458,546,279,80
+320437,M,Wales,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,46.5,318,232,226,164,147,18
+323480,F,South Region,HE Qualification,50-60%,0-35,1,60,FALSE,Pass,53.25,286,310,483,295,202,81
+323984,M,South West Region,A Level or Equivalent,70-80%,0-35,1,60,FALSE,Pass,43,809,187,1012,387,155,67
+324672,M,South Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Fail,55.75,93,251,1020,127,140,86
+330192,M,Scotland,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,49.5,165,185,677,176,188,66
+331417,M,Ireland,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Pass,53.5,207,372,828,417,212,66
+334476,F,London Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,52.5,27,150,699,201,250,75
+335476,M,Wales,A Level or Equivalent,30-40%,0-35,1,90,FALSE,Pass,64.75,404,357,884,1214,215,91
+335562,M,North Region,A Level or Equivalent,0-10%,0-35,0,90,FALSE,Pass,72.25,969,930,1633,475,461,94
+335582,M,South East Region,A Level or Equivalent,90-100%,35-55,0,120,FALSE,Distinction,69,1565,614,575,175,101,97
+335644,M,South West Region,HE Qualification,90-100%,35-55,0,120,FALSE,Fail,59.5,1523,673,2032,751,478,24
+338536,M,West Midlands Region,A Level or Equivalent,60-70%,0-35,1,60,FALSE,Pass,67.75,103,118,496,299,96,28
+338806,M,North Region,Lower Than A Level,70-80%,0-35,2,90,FALSE,Fail,33.75,31,57,192,0,53,47
+338975,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,150,FALSE,Pass,62.25,108,251,285,507,199,89
+340647,F,South East Region,HE Qualification,80-90%,35-55,0,90,FALSE,Pass,54,115,326,1061,482,272,80
+341096,M,South Region,Lower Than A Level,50-60%,35-55,0,120,FALSE,Pass,42.25,941,555,578,910,409,24
+341361,M,London Region,HE Qualification,10-20%,35-55,1,60,FALSE,Pass,42.75,394,613,1309,365,457,71
+341470,F,South East Region,A Level or Equivalent,60-70%,35-55,0,120,FALSE,Pass,55.5,465,550,1187,545,344,79
+342155,M,London Region,Lower Than A Level,40-50%,35-55,0,120,FALSE,Pass,49,471,321,911,317,176,79
+342953,M,Wales,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,62.5,54,129,297,6,136,97
+343828,F,London Region,Lower Than A Level,50-60%,0-35,1,180,FALSE,Pass,36.5,112,354,1426,199,373,41
+347484,M,South East Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Pass,54,103,187,556,168,119,63
+347809,F,Scotland,HE Qualification,10-20%,0-35,0,60,FALSE,Pass,65.25,677,420,1218,428,291,87
+348717,M,East Anglian Region,Lower Than A Level,90-100%,0-35,2,60,FALSE,Pass,53.75,66,105,237,11,102,73
+348783,M,North Western Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Distinction,66.75,275,252,919,248,206,93
+349676,M,South Region,Lower Than A Level,50-60%,0-35,0,60,FALSE,Pass,54.25,1855,2018,1966,1239,683,87
+351170,M,Ireland,Lower Than A Level,90-100%,0-35,0,120,FALSE,Pass,41.25,126,77,179,0,52,30
+351505,M,South East Region,A Level or Equivalent,70-80%,0-35,0,90,FALSE,Pass,60.5,51,179,85,571,114,83
+355335,M,Ireland,Lower Than A Level,0-10%,35-55,2,90,FALSE,Pass,50.75,569,190,397,237,104,89
+360747,M,South Region,Lower Than A Level,90-100%,35-55,0,60,FALSE,Pass,55.5,102,202,656,124,157,74
+360986,M,London Region,A Level or Equivalent,10-20%,35-55,1,120,FALSE,Pass,40,1164,420,746,734,307,71
+364790,F,North Western Region,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Distinction,68.75,1075,831,1570,84,309,91
+364974,M,North Region,Lower Than A Level,40-50%,35-55,1,180,FALSE,Pass,46.75,2440,1303,1783,636,488,72
+367605,F,South West Region,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,45,71,180,549,408,98,64
+368315,M,London Region,Lower Than A Level,30-40%,0-35,0,120,TRUE,Pass,62.25,2249,2522,7193,4239,1112,93
+368935,M,Scotland,HE Qualification,0-10%,0-35,0,120,FALSE,Fail,30,27,222,480,323,136,50
+371247,M,East Midlands Region,HE Qualification,80-90%,35-55,1,120,FALSE,Pass,56.25,27,106,233,24,97,24
+372262,F,Yorkshire Region,A Level or Equivalent,0-10%,0-35,0,90,FALSE,Distinction,70.75,2177,1355,1459,435,447,100
+379070,M,Scotland,HE Qualification,0-10%,0-35,0,60,FALSE,Distinction,62.5,243,144,613,0,121,91
+379843,F,East Midlands Region,Lower Than A Level,10-20%,0-35,0,60,TRUE,Pass,62.25,704,566,1637,645,443,88
+380435,F,East Midlands Region,HE Qualification,30-40%,0-35,0,120,FALSE,Distinction,67,852,738,591,369,362,87
+382738,M,South Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Pass,41.25,15,79,320,0,119,64
+383517,F,South East Region,A Level or Equivalent,90-100%,0-35,0,120,FALSE,Pass,58.25,490,531,878,351,200,76
+385033,M,Yorkshire Region,HE Qualification,80-90%,0-35,0,60,FALSE,Pass,60.75,182,204,846,49,111,74
+385195,M,Yorkshire Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Pass,57.75,533,272,710,346,244,43
+385209,M,London Region,Lower Than A Level,30-40%,0-35,1,90,TRUE,Fail,29.75,86,115,592,0,92,38
+385547,M,North Western Region,Lower Than A Level,20-30%,0-35,0,180,FALSE,Pass,50.5,176,184,1182,894,185,66
+387507,M,South Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Pass,61.25,371,362,1350,387,206,93
+388754,M,London Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Distinction,63.25,508,415,1726,131,250,89
+392427,M,East Anglian Region,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Fail,27,184,75,51,4,91,55
+393526,F,London Region,Lower Than A Level,0-10%,0-35,0,60,TRUE,Distinction,64.75,346,690,1446,643,556,93
+394218,M,North Region,A Level or Equivalent,10-20%,35-55,1,60,FALSE,Fail,28.25,103,375,1314,506,275,54
+394239,M,Scotland,A Level or Equivalent,0-10%,35-55,0,60,FALSE,Pass,47.75,40,143,514,2,132,37
+395696,M,North Western Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,42.75,103,125,349,96,145,73
+397470,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,57.75,157,383,1086,3,191,78
+397506,F,South Region,Lower Than A Level,90-100%,0-35,0,120,FALSE,Pass,63,611,877,1419,584,388,98
+400266,M,London Region,A Level or Equivalent,20-30%,0-35,3,90,FALSE,Pass,47.75,56,294,981,414,233,75
+402662,M,East Anglian Region,A Level or Equivalent,80-90%,0-35,0,60,TRUE,Pass,56.5,46,155,575,145,166,73
+404536,M,Wales,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,53.5,160,154,293,411,143,75
+404631,F,Wales,Lower Than A Level,50-60%,35-55,0,60,FALSE,Pass,65.75,1550,1083,1807,698,538,86
+405314,M,North Western Region,A Level or Equivalent,60-70%,0-35,1,120,FALSE,Fail,61,0,12,4,0,7,89
+406254,M,East Midlands Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,50.25,52,170,532,10,172,71
+409040,M,East Anglian Region,Lower Than A Level,20-30%,0-35,1,90,FALSE,Pass,39.25,20,85,128,317,95,23
+410838,F,East Midlands Region,A Level or Equivalent,10-20%,0-35,0,60,TRUE,Pass,47.5,203,414,1103,448,217,74
+412697,M,North Region,A Level or Equivalent,80-90%,0-35,2,210,FALSE,Pass,49.75,79,188,1034,65,217,82
+416304,M,East Anglian Region,HE Qualification,60-70%,0-35,0,120,FALSE,Pass,56.5,310,133,1302,0,311,80
+417414,M,London Region,HE Qualification,30-40%,0-35,1,90,FALSE,Pass,40.25,40,151,1135,399,171,22
+418007,F,South Region,HE Qualification,90-100%,0-35,0,60,FALSE,Distinction,70.5,285,266,157,17,153,97
+419024,F,Ireland,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,58,496,743,1969,1394,493,72
+419565,M,East Anglian Region,Lower Than A Level,10-20%,35-55,1,180,FALSE,Fail,30,2,43,144,0,4,38
+419990,M,North Western Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,56.25,89,260,981,1120,261,74
+420867,M,Ireland,Lower Than A Level,NA,35-55,0,240,FALSE,Pass,59,117,130,202,5,80,90
+424171,M,South Region,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Pass,39.25,276,301,1026,591,254,78
+424437,F,London Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Pass,63.5,308,457,855,694,529,90
+427802,F,South East Region,A Level or Equivalent,40-50%,0-35,0,150,TRUE,Pass,47.75,824,713,550,666,237,18
+432592,M,South East Region,A Level or Equivalent,40-50%,0-35,0,90,FALSE,Distinction,66.75,996,1256,1089,700,281,92
+432703,M,East Midlands Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,41.5,49,84,205,292,144,51
+441606,M,East Midlands Region,Lower Than A Level,10-20%,0-35,2,120,FALSE,Fail,40,145,331,1191,455,314,69
+444266,M,South West Region,A Level or Equivalent,70-80%,0-35,1,60,FALSE,Pass,52,274,203,263,252,151,69
+444697,M,South East Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,57.25,134,148,941,162,133,85
+444856,M,South Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Fail,35.25,32,68,256,12,73,44
+445410,M,South East Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,45.75,79,43,75,78,52,71
+446628,M,North Western Region,Lower Than A Level,80-90%,0-35,0,90,FALSE,Pass,65.25,202,199,342,80,104,84
+464616,M,London Region,A Level or Equivalent,30-40%,0-35,1,90,FALSE,Pass,35.5,20,36,254,0,38,46
+464981,M,Scotland,HE Qualification,80-90%,35-55,0,60,FALSE,Distinction,68.75,289,517,1914,636,442,96
+465893,M,Yorkshire Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Distinction,66.5,513,420,985,482,253,99
+465900,M,Wales,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,58.25,224,146,698,208,101,85
+466425,M,Ireland,HE Qualification,70-80%,0-35,0,150,FALSE,Fail,54.75,51,144,191,61,77,67
+467504,M,Ireland,A Level or Equivalent,70-80%,35-55,0,120,FALSE,Pass,53,577,427,902,244,355,69
+467524,M,Scotland,A Level or Equivalent,90-100%,35-55,0,60,FALSE,Pass,62.5,322,729,1649,507,391,86
+470001,M,West Midlands Region,Lower Than A Level,90-100%,0-35,0,90,FALSE,Distinction,68.25,1826,811,2029,1060,372,97
+471973,M,London Region,Lower Than A Level,60-70%,35-55,0,60,FALSE,Pass,63,108,141,490,2,139,78
+474126,M,East Anglian Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,66.25,125,260,1091,530,259,75
+474949,M,London Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,48.75,360,493,852,377,210,63
+475253,M,West Midlands Region,A Level or Equivalent,60-70%,0-35,1,90,FALSE,Pass,60.25,254,244,745,414,176,86
+476520,M,South East Region,Lower Than A Level,30-40%,0-35,0,90,TRUE,Pass,54.75,15,153,906,41,63,81
+478332,M,Yorkshire Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Pass,57,238,285,756,448,223,30
+479828,M,East Midlands Region,A Level or Equivalent,90-100%,0-35,2,150,FALSE,Pass,35.75,348,341,530,1537,231,24
+479845,M,Yorkshire Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,58.25,417,336,676,936,217,79
+481314,M,London Region,A Level or Equivalent,30-40%,0-35,1,90,FALSE,Pass,52.5,1461,527,1907,852,343,72
+485671,M,East Anglian Region,Lower Than A Level,50-60%,0-35,1,150,TRUE,Pass,45,410,618,1866,492,304,69
+485885,M,East Midlands Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Pass,65.25,98,349,1220,253,233,90
+486511,M,Ireland,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,42.25,258,142,608,282,144,72
+486551,M,South Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,31.5,15,91,72,511,102,52
+488394,M,East Anglian Region,Lower Than A Level,30-40%,35-55,0,60,FALSE,Pass,58,811,699,2665,1661,678,90
+489087,M,Scotland,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,61.75,945,860,2340,860,507,79
+489560,M,South Region,A Level or Equivalent,90-100%,0-35,0,150,FALSE,Pass,58.25,83,194,623,359,151,30
+490505,M,South Region,HE Qualification,90-100%,35-55,0,100,FALSE,Distinction,65.25,1339,928,1638,864,373,94
+491606,M,West Midlands Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,59,182,219,886,351,199,66
+492851,M,South West Region,Lower Than A Level,30-40%,0-35,0,120,FALSE,Pass,52.5,76,233,822,602,135,69
+493539,M,East Midlands Region,Lower Than A Level,50-60%,0-35,0,60,FALSE,Pass,66,899,462,984,616,322,88
+494495,M,East Midlands Region,A Level or Equivalent,50-60%,0-35,0,180,FALSE,Pass,57.75,120,102,147,114,72,84
+498031,F,South Region,A Level or Equivalent,80-90%,35-55,0,90,FALSE,Pass,67.25,1002,805,1334,652,846,88
+499386,M,South Region,No Formal quals,50-60%,0-35,1,60,FALSE,Pass,33.75,139,166,411,88,199,42
+499564,M,South Region,Lower Than A Level,90-100%,35-55,0,60,FALSE,Pass,59.25,384,307,2076,303,207,93
+500772,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,37.75,413,278,236,836,251,44
+501336,M,Wales,A Level or Equivalent,80-90%,0-35,1,120,FALSE,Pass,57.25,78,98,265,80,112,45
+501425,F,Wales,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,59.5,623,583,928,608,247,78
+501871,M,North Western Region,Lower Than A Level,0-10%,35-55,0,60,FALSE,Pass,53,226,356,831,621,229,96
+502249,M,East Anglian Region,A Level or Equivalent,40-50%,0-35,1,60,TRUE,Pass,60.5,453,482,450,649,315,87
+502361,M,West Midlands Region,Lower Than A Level,60-70%,0-35,1,90,FALSE,Pass,51.75,139,185,103,14,77,80
+502517,M,West Midlands Region,A Level or Equivalent,90-100%,0-35,2,60,FALSE,Pass,52,304,175,323,4,150,74
+503352,M,London Region,A Level or Equivalent,70-80%,35-55,0,120,FALSE,Distinction,63.75,426,483,1129,70,309,97
+503477,M,East Midlands Region,A Level or Equivalent,80-90%,35-55,0,60,FALSE,Pass,69.5,181,254,492,94,165,88
+503764,M,South East Region,Lower Than A Level,90-100%,35-55,0,60,FALSE,Pass,66,126,239,1126,311,206,89
+504076,F,West Midlands Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,57.75,970,1423,2934,1230,893,90
+504105,M,Scotland,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,53.5,777,620,982,443,188,70
+504321,F,North Western Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,54.5,67,112,174,214,71,100
+505047,M,East Anglian Region,HE Qualification,70-80%,0-35,0,60,FALSE,Fail,48.5,48,60,283,0,73,69
+505410,M,Wales,Lower Than A Level,70-80%,35-55,0,60,FALSE,Pass,42,660,276,937,380,248,53
+506309,F,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,55.5,307,361,1056,662,296,87
+506550,M,Wales,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,55.25,721,783,1366,605,293,74
+507010,M,North Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,52.5,62,143,242,471,161,80
+507941,F,Yorkshire Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Distinction,71.5,2515,1219,2601,763,599,98
+508059,M,West Midlands Region,A Level or Equivalent,80-90%,0-35,1,90,FALSE,Fail,47.5,0,4,0,0,0,60
+508210,M,Wales,HE Qualification,80-90%,0-35,0,90,FALSE,Pass,68.75,317,318,1472,253,329,94
+508274,F,Yorkshire Region,A Level or Equivalent,20-30%,0-35,1,120,FALSE,Distinction,65,518,559,2072,1494,382,91
+508295,F,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,60,TRUE,Fail,50.75,448,441,590,3590,363,64
+508388,M,East Anglian Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,62.75,282,236,365,198,151,81
+508804,M,East Anglian Region,Lower Than A Level,70-80%,35-55,0,60,FALSE,Pass,44.5,766,885,2489,609,594,69
+508942,M,South Region,Lower Than A Level,10-20%,0-35,0,180,TRUE,Fail,69.5,2181,1772,1875,3733,894,97
+510534,M,South West Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,51.5,233,210,421,227,302,68
+513228,M,North Western Region,Lower Than A Level,90-100%,0-35,1,90,FALSE,Pass,51.5,15,135,491,229,82,81
+514558,F,East Anglian Region,Lower Than A Level,70-80%,0-35,1,120,TRUE,Fail,34.5,563,239,528,57,136,44
+515285,M,South East Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,67.25,466,370,613,403,232,56
+515833,M,South Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,65,317,429,1684,264,272,87
+515857,M,East Midlands Region,Lower Than A Level,10-20%,35-55,0,60,FALSE,Pass,63,164,411,1607,664,388,76
+515888,M,East Midlands Region,Lower Than A Level,90-100%,0-35,0,90,FALSE,Pass,66,493,754,846,803,356,93
+516095,F,Scotland,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,45.5,114,251,795,281,250,83
+516620,M,South East Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Fail,31.75,44,100,135,32,172,55
+517731,F,South West Region,A Level or Equivalent,50-60%,0-35,0,150,FALSE,Pass,52.5,546,409,1781,1398,425,74
+518544,M,South Region,Lower Than A Level,80-90%,0-35,1,120,FALSE,Pass,64,82,140,662,131,192,90
+520061,M,North Region,Lower Than A Level,NA,35-55,1,90,FALSE,Fail,40,223,798,3228,590,691,71
+522007,M,East Anglian Region,Lower Than A Level,20-30%,0-35,1,60,FALSE,Fail,51.75,767,401,1278,329,223,70
+522257,M,Yorkshire Region,Lower Than A Level,0-10%,0-35,1,60,FALSE,Pass,60,973,997,1833,1006,560,83
+522740,M,London Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Pass,49.5,83,130,502,241,87,68
+523680,M,East Anglian Region,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Pass,65.25,1407,909,3772,785,686,90
+523971,M,London Region,A Level or Equivalent,10-20%,0-35,1,60,FALSE,Fail,45,65,107,476,0,55,53
+524407,M,London Region,HE Qualification,50-60%,35-55,0,60,FALSE,Pass,36.75,226,297,465,1076,381,58
+524845,F,Scotland,A Level or Equivalent,80-90%,0-35,0,150,TRUE,Pass,51.75,153,477,1493,387,537,71
+524938,F,Yorkshire Region,A Level or Equivalent,60-70%,0-35,1,60,FALSE,Fail,41,84,332,1278,11,209,93
+524974,M,South East Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,59.25,69,140,496,107,197,91
+526601,M,South Region,Lower Than A Level,90-100%,35-55,0,60,FALSE,Pass,61,547,526,1264,1179,258,89
+527148,M,North Western Region,HE Qualification,70-80%,0-35,0,150,FALSE,Pass,60.5,308,266,1289,473,228,86
+527494,M,South Region,Lower Than A Level,NA,0-35,0,60,FALSE,Pass,68.5,140,526,1545,844,444,91
+527713,M,North Western Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Distinction,67.5,378,609,1867,579,514,100
+528506,M,South Region,HE Qualification,90-100%,0-35,0,60,FALSE,Pass,63.25,188,208,758,226,116,83
+528559,M,North Region,No Formal quals,NA,0-35,1,90,FALSE,Pass,52.25,220,290,460,0,301,97
+529201,M,Scotland,HE Qualification,10-20%,0-35,0,90,FALSE,Pass,45.25,93,96,156,470,131,73
+529309,M,East Midlands Region,A Level or Equivalent,40-50%,0-35,2,60,FALSE,Pass,62.75,80,144,681,337,180,89
+529723,M,South West Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,51.75,645,333,863,244,223,65
+529862,F,West Midlands Region,A Level or Equivalent,70-80%,35-55,1,60,FALSE,Distinction,69.5,275,220,1042,455,250,96
+530043,M,South Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,58.5,40,168,1272,80,147,79
+530159,M,East Anglian Region,A Level or Equivalent,10-20%,0-35,1,60,FALSE,Pass,32,66,114,793,2,175,54
+530940,F,London Region,Lower Than A Level,50-60%,0-35,0,90,FALSE,Pass,50,2209,1060,1667,1735,581,83
+533523,M,East Midlands Region,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Pass,41,418,787,1927,864,434,74
+533975,M,South West Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,47.5,317,314,993,327,175,86
+535131,M,London Region,A Level or Equivalent,10-20%,0-35,1,60,FALSE,Pass,59,407,288,585,127,155,96
+536331,M,London Region,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,55.25,40,109,249,0,98,68
+537328,M,Wales,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Pass,60.75,256,349,911,396,256,68
+537942,F,North Western Region,A Level or Equivalent,0-10%,0-35,0,180,FALSE,Pass,55.75,167,203,911,345,211,78
+540503,M,London Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,36.5,243,241,671,45,222,65
+541783,M,North Western Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,34.75,178,133,440,220,150,73
+543607,M,East Midlands Region,HE Qualification,90-100%,0-35,0,60,FALSE,Pass,59.25,330,435,840,794,268,23
+543763,M,East Midlands Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,57.5,117,123,196,211,90,72
+543953,F,South East Region,Lower Than A Level,50-60%,0-35,0,60,FALSE,Pass,49,538,678,2531,2607,673,75
+544090,M,South East Region,A Level or Equivalent,30-40%,0-35,0,120,FALSE,Distinction,67,190,465,1147,1328,374,92
+544092,M,North Region,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,61.75,316,483,1135,468,287,87
+544207,M,East Midlands Region,Lower Than A Level,60-70%,35-55,0,60,FALSE,Distinction,68.25,1535,1052,935,700,225,100
+544289,M,North Region,HE Qualification,NA,0-35,1,90,FALSE,Pass,56,1037,2096,1185,1065,633,25
+546065,M,South Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,54.5,333,206,545,295,129,65
+546480,M,East Anglian Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,60.75,262,161,523,309,171,92
+546934,M,London Region,Lower Than A Level,10-20%,0-35,0,60,FALSE,Pass,55.25,770,540,660,111,168,41
+547154,M,London Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,61.75,691,415,668,679,269,81
+547393,M,Scotland,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Fail,38.5,186,329,346,1937,326,47
+547773,M,East Anglian Region,Post Graduate Qualification,90-100%,0-35,0,60,FALSE,Pass,60,137,272,800,398,213,74
+548508,M,South Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,53.5,828,657,1169,975,265,86
+548666,M,South Region,Lower Than A Level,60-70%,0-35,0,90,FALSE,Pass,59.5,539,925,1170,774,228,79
+548722,F,Scotland,A Level or Equivalent,10-20%,0-35,1,90,FALSE,Pass,46.5,2046,1796,522,561,240,40
+549300,F,South West Region,Lower Than A Level,10-20%,0-35,0,60,TRUE,Distinction,66.25,270,309,957,354,214,85
+549397,M,South West Region,A Level or Equivalent,30-40%,35-55,0,60,FALSE,Pass,65.25,629,433,1691,726,372,94
+551245,F,North Region,HE Qualification,NA,0-35,0,60,FALSE,Pass,55,484,772,978,824,331,80
+551277,M,Ireland,A Level or Equivalent,70-80%,35-55,0,120,FALSE,Pass,45,30,149,131,313,97,42
+551354,F,North Region,A Level or Equivalent,NA,0-35,0,120,FALSE,Fail,42.75,968,623,513,165,189,51
+551399,F,North Western Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Pass,53.75,40,219,637,352,158,39
+551557,M,Yorkshire Region,A Level or Equivalent,20-30%,0-35,0,120,FALSE,Pass,60,164,158,421,654,115,59
+551812,M,South Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,59.5,1129,641,934,771,338,88
+552104,F,South Region,A Level or Equivalent,80-90%,0-35,0,60,TRUE,Distinction,64.25,381,328,1400,1686,269,91
+553187,M,East Anglian Region,Lower Than A Level,0-10%,0-35,0,90,FALSE,Pass,40.75,97,228,1003,199,136,65
+553283,M,North Western Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Distinction,61.5,390,349,539,291,152,92
+553364,M,Scotland,A Level or Equivalent,20-30%,0-35,1,120,FALSE,Pass,60.25,213,313,797,74,187,75
+554257,F,Scotland,HE Qualification,90-100%,0-35,0,150,FALSE,Pass,53.25,193,145,675,307,124,80
+554470,M,South Region,Lower Than A Level,50-60%,0-35,0,90,FALSE,Pass,61.25,438,437,1387,629,394,86
+554586,M,London Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,70,579,516,1230,264,195,23
+554846,M,Ireland,A Level or Equivalent,80-90%,35-55,0,120,FALSE,Distinction,68,1499,1021,2442,493,899,96
+555498,M,East Anglian Region,HE Qualification,50-60%,35-55,0,60,FALSE,Pass,59,575,515,1851,760,499,88
+555786,M,Wales,A Level or Equivalent,90-100%,0-35,1,90,FALSE,Fail,41.75,66,129,161,0,52,49
+555855,F,South East Region,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Pass,48.75,95,568,2468,423,469,77
+556639,M,South West Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,40.75,117,190,729,30,160,48
+556646,M,South West Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,70.25,590,463,1050,948,212,95
+557012,M,West Midlands Region,A Level or Equivalent,NA,0-35,0,60,FALSE,Distinction,67,293,436,1514,996,377,100
+557020,M,South Region,Lower Than A Level,20-30%,0-35,0,90,FALSE,Pass,56.25,436,337,784,45,176,80
+557044,M,Scotland,HE Qualification,30-40%,35-55,0,60,FALSE,Pass,61.25,148,306,1035,227,233,59
+557054,M,North Western Region,HE Qualification,10-20%,35-55,0,90,FALSE,Distinction,68.25,254,109,278,69,144,99
+557385,M,South East Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,57.5,103,158,492,663,143,79
+557395,M,Ireland,A Level or Equivalent,70-80%,35-55,0,60,FALSE,Pass,63,658,758,421,490,435,84
+557545,M,East Midlands Region,A Level or Equivalent,30-40%,35-55,0,60,FALSE,Pass,69.75,373,389,552,722,307,95
+557655,M,Scotland,HE Qualification,40-50%,35-55,0,60,FALSE,Pass,54.25,106,126,825,196,212,80
+557661,M,South Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,47.25,161,75,88,411,102,46
+557735,M,South West Region,Lower Than A Level,70-80%,0-35,1,120,FALSE,Pass,59,48,71,105,0,35,64
+558345,M,Wales,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,53.75,1112,785,1933,4857,704,78
+558484,M,South Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,65,987,603,1279,1388,332,87
+558635,F,North Region,A Level or Equivalent,NA,0-35,1,60,FALSE,Pass,55,178,396,852,702,248,58
+558893,M,Yorkshire Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Distinction,63.25,322,614,2121,503,381,93
+558970,M,Wales,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,48.5,130,356,1305,1036,384,79
+559428,F,Wales,A Level or Equivalent,50-60%,0-35,0,90,FALSE,Distinction,61.75,1133,657,2256,406,415,94
+559754,M,London Region,Lower Than A Level,30-40%,0-35,1,90,FALSE,Pass,58,1183,550,2065,1879,671,81
+559813,M,Wales,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,53.75,143,158,459,97,56,82
+559863,M,Ireland,Lower Than A Level,NA,35-55,0,60,FALSE,Pass,65.25,1141,569,482,705,505,90
+560401,M,West Midlands Region,A Level or Equivalent,NA,0-35,0,60,FALSE,Pass,62.25,234,171,412,475,112,95
+560410,M,Scotland,Lower Than A Level,30-40%,0-35,1,60,FALSE,Pass,36.5,0,72,195,0,57,46
+560703,M,Yorkshire Region,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Pass,53.25,572,687,2324,687,388,85
+560727,F,East Anglian Region,A Level or Equivalent,50-60%,35-55,0,120,FALSE,Pass,57,871,690,1367,496,426,84
+560949,F,North Western Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Pass,58.5,113,430,1276,581,251,85
+561031,M,South West Region,A Level or Equivalent,30-40%,0-35,0,60,TRUE,Pass,70,56,229,787,0,166,92
+561268,M,South Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Distinction,67.75,799,560,2477,329,386,91
+561386,M,North Western Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Distinction,64,633,238,1162,350,203,87
+561542,M,East Midlands Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,56,604,436,536,630,228,50
+561714,M,West Midlands Region,Lower Than A Level,10-20%,0-35,0,120,TRUE,Distinction,71,553,150,240,321,181,93
+561865,M,Wales,HE Qualification,20-30%,35-55,0,60,FALSE,Pass,47.75,868,620,1119,667,429,84
+561867,F,Wales,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Pass,45.75,334,226,363,412,153,63
+561868,F,Wales,A Level or Equivalent,20-30%,35-55,0,60,FALSE,Pass,51,187,441,756,2542,507,86
+561874,F,Wales,HE Qualification,20-30%,35-55,0,60,FALSE,Pass,43.75,530,650,3302,601,519,71
+561879,M,Wales,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,49.5,227,158,578,308,123,80
+561889,M,Wales,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,53,346,227,779,872,205,95
+561929,F,Wales,Lower Than A Level,70-80%,35-55,0,60,FALSE,Pass,55,310,433,1756,720,339,80
+561930,M,West Midlands Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,55.5,56,35,163,87,86,84
+562377,F,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,120,TRUE,Pass,47.75,348,183,592,712,207,25
+563051,M,Ireland,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,54.75,313,86,413,90,87,77
+563299,M,South Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,58.5,345,257,779,685,176,84
+563783,M,West Midlands Region,Lower Than A Level,50-60%,0-35,0,60,FALSE,Pass,59.25,613,498,1922,431,550,81
+563787,F,North Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Distinction,62.5,527,427,1506,742,389,91
+564119,M,South Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,54.75,500,205,870,401,147,79
+564262,M,Yorkshire Region,Lower Than A Level,40-50%,35-55,0,180,FALSE,Pass,55.75,230,245,946,509,247,65
+564702,M,South Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Pass,56,295,444,1041,456,237,69
+564981,F,West Midlands Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Distinction,68.25,305,384,1082,1081,249,99
+565587,M,South Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,60,313,583,1231,693,387,90
+565698,F,West Midlands Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,59.5,207,161,1318,321,201,86
+565849,M,Scotland,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,62,1474,695,2730,223,646,86
+565990,M,London Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Pass,58,302,404,1993,264,317,78
+566009,M,London Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Distinction,67.5,235,459,1498,130,277,95
+566135,M,North Western Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,64,415,217,253,381,127,86
+566270,M,South Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,57.75,198,498,1764,203,295,87
+566465,M,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,120,FALSE,Pass,55,752,495,156,633,249,33
+566817,F,East Midlands Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,55,278,401,1170,983,267,80
+566973,F,North Region,A Level or Equivalent,NA,35-55,0,60,FALSE,Pass,60,962,790,1730,805,770,92
+567165,F,East Midlands Region,Lower Than A Level,50-60%,0-35,0,60,FALSE,Pass,46,82,181,386,501,129,66
+567312,M,West Midlands Region,A Level or Equivalent,10-20%,35-55,0,60,FALSE,Pass,58.25,413,421,1394,690,255,90
+567888,M,South East Region,HE Qualification,90-100%,35-55,0,60,FALSE,Distinction,71.25,1238,1033,2183,713,625,98
+567901,M,London Region,Lower Than A Level,10-20%,0-35,0,135,FALSE,Pass,64,303,635,1379,699,270,78
+568084,M,East Midlands Region,A Level or Equivalent,20-30%,0-35,0,120,FALSE,Pass,69,294,365,1019,589,288,94
+568132,M,North Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,54.75,88,115,170,147,83,82
+568153,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,59.5,523,622,3008,507,306,89
+568204,M,Scotland,A Level or Equivalent,40-50%,35-55,0,90,FALSE,Fail,45,1253,469,605,3,212,67
+568207,M,West Midlands Region,A Level or Equivalent,50-60%,0-35,0,60,TRUE,Pass,59.25,184,290,451,53,172,74
+568234,M,North Western Region,Lower Than A Level,40-50%,0-35,0,90,FALSE,Pass,58,50,98,131,654,111,70
+568333,M,South West Region,Lower Than A Level,40-50%,0-35,0,120,TRUE,Pass,61.75,416,796,2665,492,581,89
+568450,M,South East Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,57,275,325,1762,495,336,87
+568551,F,West Midlands Region,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,64,482,636,1485,1871,837,98
+568592,M,East Midlands Region,Lower Than A Level,50-60%,35-55,0,120,FALSE,Fail,35.25,584,1129,4578,1399,1196,85
+568644,M,East Midlands Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,57.25,101,197,673,696,194,65
+568767,M,South West Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Fail,31.75,439,234,198,45,297,42
+568774,M,West Midlands Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,43,97,569,1637,961,314,75
+569016,M,West Midlands Region,Lower Than A Level,0-10%,35-55,0,60,FALSE,Pass,67,250,253,613,267,222,95
+569107,M,South East Region,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,68.5,3147,2138,1925,1184,604,93
+569132,M,South East Region,Lower Than A Level,80-90%,0-35,0,120,FALSE,Fail,37.75,286,389,1487,471,387,60
+569167,M,East Anglian Region,HE Qualification,70-80%,0-35,0,60,FALSE,Pass,53,132,246,724,1355,241,73
+569474,M,Yorkshire Region,Lower Than A Level,30-40%,35-55,0,60,FALSE,Pass,72.25,528,665,743,1067,329,92
+569507,F,South Region,A Level or Equivalent,80-90%,35-55,0,60,FALSE,Pass,63,929,698,2416,1679,650,94
+569566,M,South Region,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Pass,51.5,516,616,1609,681,437,1
+569609,F,West Midlands Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,65,503,437,1339,319,335,82
+569712,M,South Region,Lower Than A Level,50-60%,35-55,0,120,TRUE,Distinction,63.25,546,782,1535,1367,617,88
+570061,F,South West Region,Lower Than A Level,30-40%,0-35,0,180,TRUE,Pass,51.25,978,641,1723,2690,452,69
+570213,M,South Region,A Level or Equivalent,70-80%,35-55,0,60,FALSE,Fail,41.75,335,370,2320,215,484,55
+570428,M,North Western Region,A Level or Equivalent,20-30%,0-35,0,120,FALSE,Pass,49.5,261,389,1285,417,252,73
+570455,M,Wales,Lower Than A Level,30-40%,35-55,0,60,FALSE,Pass,53.75,804,555,2041,596,384,81
+570517,M,South West Region,A Level or Equivalent,10-20%,0-35,0,75,FALSE,Pass,57.5,139,319,987,905,188,76
+570550,M,East Midlands Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Fail,56.75,426,299,271,3,127,71
+570732,M,East Midlands Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Distinction,66.75,259,550,1396,156,263,87
+570807,F,North Region,A Level or Equivalent,NA,0-35,0,90,FALSE,Distinction,64.25,185,262,1165,294,317,91
+570978,F,West Midlands Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,61.25,469,498,849,543,167,80
+571019,M,West Midlands Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Distinction,71.5,201,321,1298,365,220,98
+571022,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,58.25,402,602,1821,773,432,85
+571117,M,Yorkshire Region,Lower Than A Level,0-10%,35-55,0,60,FALSE,Fail,26,57,170,845,3,259,9
+571355,M,Ireland,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Pass,52,606,728,1505,1522,564,74
+571363,M,North Western Region,A Level or Equivalent,90-100%,0-35,0,120,FALSE,Fail,41.5,596,668,1024,438,296,60
+571490,M,London Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,61.5,434,613,1447,407,468,90
+571622,M,North Western Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,63,396,347,846,112,199,0
+571650,M,London Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,59.25,724,390,228,204,221,87
+571800,M,West Midlands Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,61.25,198,210,972,26,164,92
+571802,F,North Western Region,Lower Than A Level,10-20%,0-35,0,60,FALSE,Fail,37.5,59,97,93,383,90,44
+571828,M,South West Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Pass,53.5,304,675,1336,468,396,72
+571831,M,North Western Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,50,162,177,311,180,135,83
+571859,F,South West Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,67.25,271,377,1040,320,236,95
+571862,M,North Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Distinction,62.5,497,494,1568,687,456,92
+571893,M,London Region,A Level or Equivalent,0-10%,0-35,0,90,FALSE,Pass,46.75,121,199,188,267,203,59
+571926,M,North Western Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Pass,65.5,634,652,1838,1203,289,86
+571973,M,London Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Fail,46.25,379,440,647,713,247,68
+572003,M,North Region,A Level or Equivalent,10-20%,35-55,0,120,FALSE,Pass,58.25,681,436,914,467,251,95
+572011,M,North Western Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,58.25,443,216,823,462,174,89
+572036,M,East Midlands Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,63.75,290,319,783,733,253,90
+572047,M,East Anglian Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Fail,30.25,73,232,798,507,164,51
+572053,M,London Region,HE Qualification,20-30%,0-35,0,120,FALSE,Distinction,64.5,265,519,2203,1011,543,92
+572124,M,North Western Region,A Level or Equivalent,40-50%,35-55,0,120,FALSE,Pass,55.25,487,277,677,297,179,83
+572125,M,East Anglian Region,Lower Than A Level,50-60%,0-35,0,120,FALSE,Pass,59,429,342,579,258,192,35
+572250,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,120,FALSE,Pass,53.75,93,130,491,325,97,70
+572274,F,East Anglian Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Pass,59.5,180,345,494,1281,305,88
+572397,M,Yorkshire Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,51,142,194,265,718,243,81
+572410,M,Wales,HE Qualification,40-50%,0-35,0,60,FALSE,Pass,52.5,205,250,964,8,132,84
+572505,M,North Western Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,58.25,575,685,1660,261,356,80
+572560,M,East Anglian Region,Lower Than A Level,70-80%,35-55,0,60,FALSE,Pass,57,192,276,906,562,248,72
+572584,M,London Region,Lower Than A Level,50-60%,35-55,0,60,FALSE,Pass,52.5,184,167,695,1014,159,92
+572588,M,South East Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Distinction,63.25,154,124,401,54,121,87
+572634,M,South Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Pass,60.25,269,231,216,164,130,87
+572702,F,East Anglian Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,45.25,784,622,826,1030,244,62
+572718,M,East Anglian Region,Lower Than A Level,20-30%,0-35,0,120,TRUE,Fail,54.25,272,224,750,432,164,57
+572769,F,North Western Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,59,641,681,1029,533,246,96
+572845,M,Yorkshire Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Distinction,67.5,775,380,2074,329,312,99
+572860,F,London Region,No Formal quals,10-20%,0-35,0,120,FALSE,Pass,60.5,699,657,2064,1575,503,80
+573166,M,West Midlands Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Pass,55.5,128,200,490,235,153,82
+573173,M,South Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,60.5,606,558,1212,566,306,46
+573224,M,Ireland,A Level or Equivalent,90-100%,0-35,0,120,FALSE,Distinction,65,21,150,442,305,84,88
+573434,M,London Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,48,481,447,920,466,358,87
+573467,M,Wales,A Level or Equivalent,70-80%,0-35,0,90,FALSE,Pass,50.5,764,655,1157,1006,513,68
+573639,M,South Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,55.75,801,447,1212,1455,235,78
+573678,M,Ireland,A Level or Equivalent,90-100%,0-35,0,70,TRUE,Pass,35,41,115,233,254,91,58
+573704,M,Wales,Lower Than A Level,60-70%,0-35,0,90,FALSE,Pass,39.5,331,295,475,149,202,59
+573766,M,Yorkshire Region,HE Qualification,60-70%,0-35,0,60,FALSE,Fail,34.25,150,171,156,719,160,30
+573864,M,South West Region,A Level or Equivalent,60-70%,55<=,0,240,FALSE,Pass,45,350,531,849,695,333,22
+573900,M,Ireland,Lower Than A Level,NA,0-35,0,90,FALSE,Pass,61.25,398,270,1189,327,228,79
+573951,M,East Anglian Region,Lower Than A Level,40-50%,0-35,0,90,FALSE,Pass,61.75,293,514,1362,548,326,90
+574056,M,West Midlands Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Fail,50.5,75,269,667,572,306,47
+574070,F,South East Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Pass,60.75,518,341,1730,627,336,91
+574078,M,London Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,47.75,84,267,930,346,188,79
+574207,M,London Region,Lower Than A Level,0-10%,0-35,0,120,FALSE,Pass,52.75,88,358,1049,669,225,92
+574283,M,South Region,A Level or Equivalent,20-30%,35-55,0,120,FALSE,Pass,58.75,519,253,584,612,256,82
+574315,M,North Western Region,A Level or Equivalent,0-10%,35-55,0,120,FALSE,Distinction,71.5,5304,2895,900,964,535,97
+574418,M,Ireland,Lower Than A Level,NA,0-35,0,60,FALSE,Pass,63.75,227,277,1513,2768,377,98
+574446,M,South Region,Lower Than A Level,90-100%,0-35,0,120,FALSE,Distinction,70,381,486,1871,1038,309,90
+574534,M,East Midlands Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Pass,55.25,282,479,1721,958,503,79
+574551,M,Scotland,A Level or Equivalent,40-50%,0-35,0,90,FALSE,Pass,58,21,157,448,322,88,27
+574570,M,London Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,49.75,49,241,1149,245,201,76
+574681,M,East Anglian Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,53,55,149,339,411,126,82
+574722,M,London Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,65,372,556,1441,5,241,90
+574732,F,Wales,Lower Than A Level,70-80%,0-35,0,60,FALSE,Pass,56,382,421,1114,298,344,91
+574845,M,South West Region,Lower Than A Level,10-20%,0-35,0,90,FALSE,Pass,61,596,653,1708,294,310,81
+574874,M,London Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Distinction,65.75,5029,3010,1855,364,615,88
+575039,M,West Midlands Region,A Level or Equivalent,70-80%,35-55,0,60,FALSE,Pass,49.5,628,283,431,498,185,78
+575186,M,East Midlands Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,55.75,196,394,1022,522,233,67
+575265,M,Yorkshire Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Pass,52.75,156,118,407,386,93,67
+575282,F,Wales,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Fail,33,414,382,951,341,425,57
+575372,M,London Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,48.75,257,446,1020,615,195,73
+575512,M,North Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,53.75,274,333,802,484,193,78
+575678,M,Scotland,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,53.75,74,217,454,144,129,66
+575797,M,Wales,Lower Than A Level,60-70%,0-35,0,120,FALSE,Pass,60.25,60,240,442,245,138,43
+575956,M,Scotland,Lower Than A Level,10-20%,0-35,0,60,FALSE,Pass,61.75,348,153,858,169,176,80
+576097,M,North Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,59.25,407,465,1587,500,304,94
+576205,F,Yorkshire Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Pass,59.5,897,517,1072,1164,349,85
+576229,M,East Midlands Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,36,212,355,804,258,385,65
+576399,M,Yorkshire Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,60.75,291,299,1034,1324,253,64
+576423,M,London Region,A Level or Equivalent,10-20%,0-35,0,240,FALSE,Fail,36,40,73,115,1,64,22
+576431,M,London Region,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Pass,60.5,191,151,163,8,79,73
+576433,M,East Anglian Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Distinction,67,539,334,1260,593,253,81
+576518,M,London Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,67,596,312,787,2,179,95
+576568,M,South West Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,56.75,457,260,908,154,233,70
+576672,M,East Midlands Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,49,82,163,170,684,131,22
+576704,M,North Region,Lower Than A Level,NA,0-35,0,60,FALSE,Pass,53.5,265,321,1849,217,293,87
+576780,M,East Anglian Region,A Level or Equivalent,30-40%,0-35,0,120,FALSE,Distinction,65,580,589,1415,684,411,91
+576789,M,Ireland,Lower Than A Level,NA,35-55,0,60,FALSE,Pass,52.5,395,549,1869,822,495,70
+576791,M,North Region,HE Qualification,40-50%,0-35,0,120,FALSE,Distinction,66.75,537,436,780,209,195,99
+576813,M,London Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,60,277,315,444,102,107,56
+576888,M,South West Region,Lower Than A Level,50-60%,0-35,0,120,FALSE,Pass,63,235,270,948,438,147,76
+576921,F,East Midlands Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Distinction,68.5,653,608,1268,533,334,100
+577042,M,North Western Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,59,363,573,1720,1302,455,79
+577149,M,Wales,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,41.5,375,376,1730,488,295,56
+577222,F,Scotland,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Distinction,66.25,860,844,878,537,348,87
+577404,F,London Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Distinction,66.25,315,425,1656,516,282,89
+577476,M,Ireland,A Level or Equivalent,90-100%,0-35,0,90,FALSE,Pass,65.5,386,458,1527,411,361,88
+577605,M,Scotland,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,55.75,26,108,377,326,138,84
+577607,M,Ireland,Lower Than A Level,50-60%,0-35,0,90,FALSE,Fail,35.75,421,250,279,40,79,45
+577763,M,Scotland,Lower Than A Level,20-30%,35-55,0,60,FALSE,Pass,66.25,317,421,875,555,239,88
+577764,F,West Midlands Region,Lower Than A Level,80-90%,0-35,0,120,FALSE,Distinction,71,1533,1488,1959,1032,418,97
+577867,M,North Western Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,46.75,69,75,219,77,62,62
+577922,M,South Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Distinction,62.75,401,266,358,344,115,93
+577959,M,South West Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Distinction,59.75,138,203,722,378,134,99
+577999,F,Yorkshire Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Distinction,63.5,562,683,878,411,219,91
+578050,M,Ireland,A Level or Equivalent,70-80%,0-35,0,90,FALSE,Pass,65.75,185,324,681,257,261,75
+578199,M,Scotland,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,49.75,593,257,870,201,239,53
+578281,M,East Midlands Region,A Level or Equivalent,70-80%,0-35,0,150,FALSE,Distinction,67.5,334,665,3131,663,615,95
+578497,M,South Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Distinction,67.25,1923,1326,2230,823,796,90
+578744,M,North Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,60,121,235,875,299,222,87
+579038,M,London Region,Lower Than A Level,10-20%,35-55,0,120,FALSE,Pass,52,322,620,1616,607,306,80
+579176,F,Scotland,HE Qualification,40-50%,35-55,0,75,FALSE,Pass,62.75,849,573,1581,808,527,82
+579257,M,South East Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,42.25,22,202,1132,54,138,72
+579278,M,South West Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,47.75,66,64,180,12,127,62
+579506,M,North Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,51.75,17,126,357,184,117,77
+579526,M,Yorkshire Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,54.25,258,384,1578,523,298,88
+579557,M,South West Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Distinction,67.75,600,630,1719,674,238,100
+579685,M,West Midlands Region,No Formal quals,0-10%,0-35,0,60,FALSE,Fail,48.25,170,215,895,1363,172,67
+579737,M,North Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,58.25,98,188,1014,30,127,86
+580317,M,West Midlands Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Distinction,70.75,190,291,1127,315,202,91
+580342,M,East Midlands Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,54.5,193,201,1010,591,166,92
+580555,M,South West Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,57.5,86,165,371,3,189,78
+580657,M,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,59.75,523,327,892,368,171,87
+580709,M,South Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,59.5,70,78,81,21,74,89
+580743,M,North Western Region,HE Qualification,30-40%,35-55,0,60,FALSE,Pass,50,630,275,1269,17,302,65
+580779,F,East Midlands Region,A Level or Equivalent,70-80%,0-35,0,90,FALSE,Pass,66,215,655,2104,554,380,91
+580842,F,South Region,Lower Than A Level,90-100%,35-55,0,90,FALSE,Distinction,62,935,800,2245,1649,402,91
+580867,M,East Midlands Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Pass,56.75,487,310,262,520,293,94
+581034,F,West Midlands Region,Lower Than A Level,20-30%,35-55,0,90,FALSE,Pass,47.25,754,1181,4032,716,733,83
+581135,M,South East Region,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Pass,67,3626,2366,1414,358,301,97
+581261,M,South Region,No Formal quals,50-60%,0-35,0,60,FALSE,Pass,43.25,245,180,480,378,158,75
+581332,M,South Region,Lower Than A Level,20-30%,0-35,0,90,FALSE,Pass,48,190,270,662,153,187,53
+581410,M,South East Region,A Level or Equivalent,50-60%,0-35,0,60,TRUE,Pass,62.75,570,359,570,482,281,75
+581486,M,North Region,Lower Than A Level,NA,0-35,0,90,FALSE,Pass,51.75,285,156,268,1,116,84
+581490,F,Yorkshire Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Pass,52.25,781,941,1536,725,406,81
+581523,M,South East Region,A Level or Equivalent,40-50%,0-35,0,150,FALSE,Pass,51.5,640,432,883,417,272,61
+581532,M,South Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,48.5,169,580,3583,414,647,86
+581574,M,South East Region,Lower Than A Level,50-60%,0-35,0,60,FALSE,Pass,59,396,270,1004,519,261,85
+581614,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,120,FALSE,Pass,63.5,67,177,342,387,122,83
+581616,M,London Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Fail,32.75,409,424,1647,219,361,81
+581656,M,South West Region,A Level or Equivalent,60-70%,0-35,0,60,TRUE,Pass,44.5,303,302,1330,140,230,86
+581769,M,London Region,Lower Than A Level,60-70%,35-55,0,60,FALSE,Pass,68,565,479,992,25,388,49
+581770,M,East Anglian Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,52.5,243,230,560,581,181,85
+581787,M,East Anglian Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,56.5,659,277,829,673,293,80
+581796,M,Scotland,HE Qualification,10-20%,0-35,0,60,FALSE,Pass,52.75,104,60,434,122,63,69
+581810,M,South East Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,51,173,226,230,689,145,82
+581836,M,Ireland,A Level or Equivalent,40-50%,0-35,0,150,FALSE,Distinction,64.75,448,516,1564,1082,446,95
+581838,M,South Region,A Level or Equivalent,70-80%,0-35,0,90,FALSE,Pass,46,181,68,182,780,101,52
+582063,M,East Anglian Region,Lower Than A Level,80-90%,0-35,0,90,FALSE,Pass,60.25,671,583,1538,1251,336,88
+582108,M,London Region,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,48,158,429,479,673,211,63
+582235,M,North Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,57.75,502,623,1116,424,250,78
+582364,M,North Western Region,Lower Than A Level,10-20%,35-55,0,120,FALSE,Pass,56,310,474,1273,372,339,84
+582392,M,Wales,A Level or Equivalent,10-20%,35-55,0,60,FALSE,Pass,69.5,1066,847,3952,362,494,94
+582494,M,West Midlands Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,53.75,596,524,1444,116,220,90
+582510,M,East Midlands Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,60,625,259,544,157,136,91
+582562,M,Scotland,HE Qualification,NA,35-55,0,60,FALSE,Pass,57,748,725,2223,931,455,91
+582705,M,Yorkshire Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,51.75,311,618,2737,169,386,78
+582790,M,South East Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,47.5,241,173,803,270,226,64
+582950,M,Scotland,HE Qualification,30-40%,0-35,0,90,FALSE,Distinction,64.75,312,326,1739,509,285,91
+583131,M,Ireland,HE Qualification,70-80%,0-35,0,120,FALSE,Pass,48.5,19,157,233,114,221,78
+583202,F,West Midlands Region,Lower Than A Level,70-80%,0-35,0,90,FALSE,Pass,67.25,230,491,1080,1202,378,98
+583232,M,West Midlands Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,70.25,356,643,1439,530,312,99
+583286,F,East Anglian Region,Lower Than A Level,30-40%,0-35,0,120,FALSE,Pass,58.25,342,509,2154,756,347,82
+583381,M,North Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,61.25,188,171,1053,35,191,78
+583526,M,North Western Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Pass,40,578,251,1491,398,148,89
+583741,M,Scotland,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,51,181,287,675,605,145,61
+583824,M,South Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,62,697,362,1093,1062,397,97
+583867,M,East Midlands Region,Lower Than A Level,20-30%,0-35,0,150,FALSE,Pass,63.75,695,390,510,1159,212,94
+584111,M,South West Region,HE Qualification,60-70%,0-35,0,90,FALSE,Pass,45.75,370,382,1929,492,377,68
+584210,M,South West Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Fail,30.75,50,114,458,511,171,28
+584214,M,East Midlands Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Distinction,70.75,309,402,1249,1008,325,92
+584446,F,Ireland,HE Qualification,NA,0-35,0,120,FALSE,Pass,69.5,337,181,256,77,103,98
+584468,F,North Western Region,A Level or Equivalent,30-40%,35-55,0,120,FALSE,Pass,65.75,894,890,1164,526,717,89
+584546,M,Yorkshire Region,Lower Than A Level,20-30%,0-35,0,90,FALSE,Pass,58.5,450,348,661,2020,203,91
+584550,F,London Region,Lower Than A Level,40-50%,0-35,0,90,FALSE,Pass,41.75,264,211,266,0,141,62
+584601,M,South West Region,Lower Than A Level,20-30%,0-35,0,90,FALSE,Pass,66.5,712,663,1982,592,455,96
+584771,M,Scotland,HE Qualification,20-30%,0-35,0,90,FALSE,Pass,68.75,199,288,1101,380,279,87
+585033,M,Wales,Lower Than A Level,10-20%,0-35,0,60,FALSE,Pass,60.5,182,171,668,95,139,92
+585093,M,North Region,Post Graduate Qualification,NA,35-55,0,90,FALSE,Distinction,63,582,766,1546,1412,612,93
+585162,M,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,56.75,243,171,390,105,133,85
+585166,M,South East Region,HE Qualification,30-40%,0-35,0,120,FALSE,Pass,59.25,83,117,323,331,96,50
+585230,M,North Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Fail,46.25,107,221,593,259,130,62
+585305,M,Ireland,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,59.75,91,100,142,170,96,75
+585383,M,South East Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Distinction,61.75,347,219,545,451,171,96
+585449,M,Yorkshire Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Fail,67.75,417,304,557,807,298,45
+585466,M,South East Region,Lower Than A Level,80-90%,35-55,0,60,FALSE,Distinction,70,593,525,2042,362,437,98
+585574,M,South Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Pass,39,476,256,173,285,144,45
+585615,M,South West Region,Lower Than A Level,70-80%,35-55,0,120,FALSE,Fail,51.25,103,391,978,715,261,84
+585659,M,South East Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,59.75,641,423,625,825,288,78
+585731,M,Scotland,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,59.5,146,406,1707,453,291,85
+585942,M,East Anglian Region,Lower Than A Level,70-80%,0-35,0,150,FALSE,Fail,38.75,139,195,142,191,99,6
+586034,M,South West Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Distinction,68.75,155,221,741,81,196,95
+586233,M,East Anglian Region,Lower Than A Level,50-60%,0-35,0,60,TRUE,Pass,53,962,285,122,373,93,41
+586428,M,South West Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,50,50,181,1153,150,236,74
+586446,M,Yorkshire Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,56.75,213,135,413,2,95,93
+586468,M,South West Region,HE Qualification,40-50%,0-35,0,60,FALSE,Pass,45.25,418,790,2901,496,604,75
+586483,M,South Region,Lower Than A Level,80-90%,35-55,0,60,TRUE,Pass,62.25,220,275,755,655,251,23
+586518,M,Scotland,HE Qualification,70-80%,0-35,0,120,FALSE,Pass,51,334,353,1179,700,245,62
+586594,M,East Anglian Region,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Distinction,66.25,2422,1576,1357,530,415,89
+586642,M,London Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,59,129,258,478,5,245,81
+586705,M,Yorkshire Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Distinction,68.5,538,482,1305,291,335,94
+586719,F,West Midlands Region,Lower Than A Level,0-10%,0-35,0,120,FALSE,Pass,59,354,372,831,579,320,80
+586753,M,Yorkshire Region,Lower Than A Level,0-10%,0-35,0,120,FALSE,Fail,25,220,131,247,1,49,42
+586758,M,East Midlands Region,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Pass,57.25,1324,368,207,683,205,92
+586781,M,South Region,HE Qualification,50-60%,35-55,0,60,FALSE,Distinction,69.25,820,711,2175,900,658,95
+586784,F,East Anglian Region,A Level or Equivalent,30-40%,0-35,0,120,TRUE,Pass,55,293,377,708,179,261,69
+586808,M,West Midlands Region,Lower Than A Level,0-10%,0-35,0,90,FALSE,Pass,59.75,445,409,697,2,233,86
+586855,M,North Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,61.5,235,185,579,209,135,75
+586891,M,East Anglian Region,Lower Than A Level,40-50%,35-55,0,120,FALSE,Pass,39.25,551,227,984,491,279,32
+586935,M,Scotland,HE Qualification,50-60%,0-35,0,90,FALSE,Pass,59,88,190,720,186,146,77
+586957,M,Wales,A Level or Equivalent,30-40%,0-35,0,120,TRUE,Pass,52.75,125,156,827,164,177,88
+587126,M,West Midlands Region,HE Qualification,70-80%,35-55,0,60,FALSE,Distinction,66,447,647,1674,629,405,83
+587178,M,North Region,HE Qualification,NA,35-55,0,60,FALSE,Pass,56.5,783,263,588,526,189,98
+587286,M,Ireland,HE Qualification,30-40%,35-55,0,120,FALSE,Distinction,70,628,438,799,500,220,92
+587294,M,Yorkshire Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,55.5,253,391,1245,3420,439,91
+587334,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Pass,54.25,245,351,1067,425,249,70
+587451,M,Scotland,HE Qualification,40-50%,0-35,0,90,FALSE,Pass,51.5,499,518,997,601,189,73
+587456,M,South East Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,46.25,169,230,1107,440,290,86
+587594,M,Scotland,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,51.75,340,284,621,184,143,64
+587619,M,Scotland,Lower Than A Level,80-90%,0-35,0,60,FALSE,Distinction,64.5,840,661,2187,860,483,88
+587685,M,South East Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Pass,55.75,442,504,969,1075,292,47
+587690,F,London Region,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,50,107,199,262,211,178,68
+587783,M,East Anglian Region,Lower Than A Level,80-90%,0-35,0,120,FALSE,Distinction,67,1187,298,1290,694,259,99
+587848,F,London Region,Post Graduate Qualification,10-20%,35-55,0,60,FALSE,Pass,54.25,808,504,838,603,309,74
+588131,M,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,150,FALSE,Pass,50.75,206,162,421,76,116,78
+588156,M,West Midlands Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Pass,62.75,180,143,661,826,158,86
+588236,M,South East Region,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,50,1860,574,308,920,419,25
+588261,M,West Midlands Region,HE Qualification,50-60%,35-55,0,60,FALSE,Pass,66.75,727,895,3073,797,667,96
+588672,F,Scotland,HE Qualification,30-40%,0-35,0,90,FALSE,Pass,59.25,413,351,601,275,194,90
+588971,M,South West Region,A Level or Equivalent,50-60%,0-35,0,90,FALSE,Pass,46.5,51,158,342,1,148,81
+589003,M,South East Region,A Level or Equivalent,30-40%,0-35,0,120,FALSE,Pass,55,592,640,1325,480,259,78
+589014,M,Scotland,HE Qualification,60-70%,0-35,0,90,FALSE,Pass,57.75,184,222,613,164,248,83
+589263,M,North Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,58.5,81,104,228,94,69,77
+589295,M,North Region,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,48.75,109,156,493,45,170,64
+589303,M,North Region,HE Qualification,NA,35-55,0,60,FALSE,Pass,51,388,327,966,163,248,80
+589326,M,North Region,A Level or Equivalent,NA,0-35,0,60,FALSE,Distinction,71.75,282,365,1582,323,285,100
+589409,M,Wales,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Distinction,67.75,460,1214,2132,993,451,93
+589559,M,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,61.5,66,286,1102,247,193,97
+589578,M,North Region,Lower Than A Level,NA,35-55,0,90,FALSE,Pass,62.25,568,431,1341,125,313,88
+589583,M,Wales,HE Qualification,30-40%,0-35,0,90,FALSE,Distinction,64.5,629,1049,4004,729,518,98
+589587,M,North Region,Lower Than A Level,NA,0-35,0,120,FALSE,Pass,59.75,94,341,592,100,175,89
+589605,M,London Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,59.75,466,654,1872,668,388,89
+589707,M,North Region,Lower Than A Level,NA,0-35,0,60,FALSE,Fail,30.75,67,117,47,47,76,84
+589782,M,North Western Region,HE Qualification,30-40%,0-35,0,90,FALSE,Pass,46.5,117,373,1048,334,323,87
+589860,M,North Region,HE Qualification,NA,0-35,0,60,FALSE,Pass,57,153,457,1552,285,323,89
+589948,M,London Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,62.5,178,303,708,753,227,81
+590226,M,North Region,A Level or Equivalent,40-50%,0-35,0,120,TRUE,Pass,60,184,460,1613,249,302,76
+590241,M,West Midlands Region,A Level or Equivalent,0-10%,35-55,0,120,FALSE,Pass,61.5,272,485,1742,265,319,73
+590289,M,London Region,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Fail,34.5,114,151,347,172,168,55
+590328,M,South East Region,HE Qualification,70-80%,0-35,0,150,FALSE,Pass,56,139,268,667,17,131,79
+590701,M,North Region,A Level or Equivalent,NA,35-55,0,90,TRUE,Distinction,68,1348,540,998,525,244,93
+590707,M,Yorkshire Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Distinction,68,256,75,540,47,99,100
+590824,F,Yorkshire Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,66,511,564,1224,441,354,94
+590907,M,East Midlands Region,Lower Than A Level,10-20%,0-35,0,60,FALSE,Pass,58.75,271,769,3109,163,321,83
+590980,M,South West Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Pass,47.5,923,906,3248,448,686,74
+590989,M,South East Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,44.5,57,91,136,141,96,72
+591055,M,East Midlands Region,Lower Than A Level,80-90%,0-35,0,90,FALSE,Pass,55.25,715,183,492,745,146,73
+591078,M,Ireland,HE Qualification,NA,0-35,0,90,FALSE,Pass,69.75,104,158,631,175,141,100
+591219,M,Yorkshire Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,50,146,171,402,179,100,53
+591343,M,Scotland,A Level or Equivalent,30-40%,0-35,0,150,FALSE,Pass,41.5,5,66,295,47,78,26
+591394,F,London Region,Lower Than A Level,30-40%,0-35,0,90,FALSE,Pass,67.5,732,479,2251,389,426,97
+591403,M,East Anglian Region,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Distinction,66.25,522,765,2728,171,270,96
+591581,M,South East Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Fail,25.5,54,155,875,143,111,45
+591685,M,Wales,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,38.5,19,48,79,0,51,65
+591695,M,Scotland,HE Qualification,30-40%,0-35,0,60,FALSE,Pass,58.75,667,532,1212,351,232,83
+591735,M,South East Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Fail,53.5,178,265,504,303,191,71
+591765,M,East Anglian Region,HE Qualification,60-70%,0-35,0,120,FALSE,Pass,59.5,297,507,1126,348,258,91
+591872,M,North Western Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Pass,52.75,1124,1500,1762,1218,653,82
+591940,M,London Region,Lower Than A Level,50-60%,35-55,0,60,FALSE,Pass,60.75,957,594,1815,576,458,85
+591975,M,North Western Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Fail,38.5,316,834,1474,722,356,56
+592007,M,North Western Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,45.5,317,436,1321,435,344,70
+592014,M,London Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,56.5,86,165,897,201,187,77
+592092,F,South West Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,51,378,347,1086,347,284,69
+592168,M,East Anglian Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,61.75,2438,866,1226,391,303,86
+592203,M,North Western Region,A Level or Equivalent,0-10%,0-35,0,60,TRUE,Distinction,66.25,425,407,1075,432,215,98
+592259,M,Yorkshire Region,A Level or Equivalent,80-90%,0-35,0,150,FALSE,Pass,48.25,525,292,430,336,140,69
+592370,M,Scotland,HE Qualification,10-20%,35-55,0,60,FALSE,Pass,57.5,688,586,833,1071,333,81
+592373,M,East Midlands Region,A Level or Equivalent,70-80%,0-35,0,90,TRUE,Distinction,65,142,247,567,310,151,82
+592476,F,South Region,Lower Than A Level,70-80%,0-35,0,120,FALSE,Pass,45.25,71,62,72,14,39,48
+592616,M,South Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,48.25,28,72,69,0,48,67
+592631,F,Scotland,HE Qualification,40-50%,0-35,0,60,FALSE,Distinction,70.5,526,314,2044,441,258,98
+592634,M,North Western Region,No Formal quals,0-10%,35-55,0,60,FALSE,Fail,31.25,2597,924,2259,1003,857,40
+592640,M,Ireland,Lower Than A Level,NA,0-35,0,90,FALSE,Distinction,72.25,1163,394,1154,509,324,100
+592689,M,East Anglian Region,HE Qualification,80-90%,0-35,0,60,FALSE,Pass,51.5,239,314,1092,253,243,26
+592763,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,60,TRUE,Pass,62.75,170,325,710,361,200,76
+592781,M,North Western Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Pass,54.25,664,679,1417,443,361,90
+592789,M,Wales,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,50.25,372,423,1151,500,405,73
+592810,M,London Region,Lower Than A Level,50-60%,35-55,0,120,TRUE,Fail,52,1321,421,684,394,245,90
+592856,M,South Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,39.25,24,105,184,252,114,56
+592924,M,West Midlands Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,57.25,160,252,621,216,209,76
+593022,M,North Western Region,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Distinction,63.75,533,550,1635,373,362,94
+593139,M,Wales,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Fail,43.25,280,377,601,465,203,52
+593272,F,London Region,A Level or Equivalent,10-20%,35-55,0,60,FALSE,Distinction,63.5,1205,444,1625,459,302,89
+593320,M,South West Region,HE Qualification,60-70%,0-35,0,60,FALSE,Pass,54,730,470,1630,1117,314,82
+593459,M,London Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,61.75,254,124,440,3,74,79
+593492,M,South Region,A Level or Equivalent,30-40%,0-35,0,120,FALSE,Pass,43.25,33,134,255,12,74,80
+593585,F,North Western Region,A Level or Equivalent,0-10%,0-35,0,90,FALSE,Pass,53.75,187,185,163,359,110,72
+593823,M,East Anglian Region,HE Qualification,60-70%,35-55,0,90,FALSE,Pass,61.25,2095,809,1805,694,337,89
+593904,M,South West Region,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Fail,33.5,127,74,94,43,71,43
+593953,M,South East Region,HE Qualification,10-20%,35-55,0,60,FALSE,Pass,64.5,1542,1002,2416,1082,698,78
+593970,M,Scotland,HE Qualification,40-50%,35-55,0,60,FALSE,Fail,63,115,129,507,98,118,21
+594044,M,Wales,HE Qualification,80-90%,0-35,0,90,FALSE,Pass,60.5,1432,655,706,874,294,89
+594119,M,East Anglian Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,62.75,993,341,1502,329,262,85
+594139,M,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,53.75,317,234,747,672,417,85
+594162,M,North Western Region,Lower Than A Level,0-10%,35-55,0,120,FALSE,Pass,51.75,320,533,1466,1186,529,66
+594205,M,North Western Region,A Level or Equivalent,70-80%,0-35,0,120,TRUE,Pass,57.25,112,283,954,251,196,85
+594250,F,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,90,FALSE,Pass,62,594,707,2066,474,629,83
+594319,M,Scotland,HE Qualification,30-40%,0-35,0,60,FALSE,Pass,61,771,1352,1457,376,162,87
+594326,M,West Midlands Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,58.75,60,132,312,75,129,78
+594342,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Fail,43.25,63,105,99,0,91,76
+594406,M,North Western Region,HE Qualification,0-10%,0-35,0,120,FALSE,Fail,40.25,687,519,1144,517,259,51
+594505,M,London Region,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Pass,60,136,132,311,98,213,60
+594506,M,South East Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,61.75,93,308,1411,114,198,59
+594546,M,South West Region,A Level or Equivalent,90-100%,0-35,0,120,FALSE,Distinction,70.25,701,1027,3516,615,890,99
+594547,M,South Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,53.5,574,460,1111,51,158,89
+594558,M,West Midlands Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Distinction,71.5,475,636,976,999,386,80
+594576,M,London Region,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,54.25,454,352,967,648,431,89
+594596,F,North Western Region,Lower Than A Level,50-60%,0-35,0,120,FALSE,Pass,63,1012,512,1265,1068,616,94
+594814,M,Yorkshire Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,58.75,827,991,2485,963,415,96
+594823,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,120,FALSE,Fail,59.75,53,83,99,394,59,24
+594855,M,West Midlands Region,A Level or Equivalent,40-50%,0-35,0,150,FALSE,Pass,51.5,335,324,376,107,308,77
+594894,M,East Anglian Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,52.75,118,147,411,227,119,74
+595106,M,South West Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Distinction,62.25,758,522,1249,592,296,95
+595164,M,East Midlands Region,A Level or Equivalent,70-80%,0-35,0,120,TRUE,Pass,62,152,183,139,710,244,88
+595230,F,London Region,A Level or Equivalent,10-20%,0-35,0,150,FALSE,Pass,47.5,2764,964,560,1353,407,61
+595235,F,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,150,FALSE,Fail,46,195,117,396,399,102,73
+595330,M,West Midlands Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Pass,61.5,137,276,1668,113,203,86
+595354,F,North Region,HE Qualification,NA,0-35,0,120,FALSE,Pass,33.25,103,298,693,150,102,57
+595381,M,London Region,Lower Than A Level,30-40%,0-35,0,120,FALSE,Pass,65.75,324,636,1960,311,514,91
+595386,M,West Midlands Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,55.5,274,225,1265,386,299,46
+595401,M,North Region,Lower Than A Level,NA,0-35,0,60,FALSE,Pass,58.75,331,332,268,757,158,47
+595477,M,Yorkshire Region,Lower Than A Level,0-10%,0-35,0,150,FALSE,Fail,43.75,390,235,948,455,404,87
+595649,M,London Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Pass,35,26,59,161,1,32,48
+595655,M,West Midlands Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,67.5,342,266,309,663,159,90
+595735,M,East Anglian Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,56.75,1553,681,927,691,277,67
+595746,M,West Midlands Region,Lower Than A Level,10-20%,0-35,0,60,FALSE,Distinction,68.25,4829,1629,2226,3270,707,97
+595752,F,North Region,Post Graduate Qualification,NA,0-35,0,120,FALSE,Distinction,68.75,816,388,1439,414,433,91
+595769,M,North Western Region,HE Qualification,20-30%,0-35,0,120,FALSE,Pass,41.25,391,455,1209,44,268,79
+595840,M,West Midlands Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Distinction,69.25,711,1332,2701,905,551,98
+595842,M,North Region,A Level or Equivalent,NA,0-35,0,120,FALSE,Pass,67,152,316,693,986,225,97
+595847,M,Wales,HE Qualification,0-10%,0-35,0,120,FALSE,Distinction,63.75,328,142,262,481,146,84
+595868,M,East Anglian Region,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,49.25,981,572,1438,836,511,76
+596027,M,South Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,54.5,223,435,1135,408,301,65
+596147,M,North Western Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,59.5,334,411,1533,47,280,96
+596368,M,North Western Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,60,245,332,1050,74,180,98
+596406,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Fail,56.25,27,146,660,59,118,70
+596490,M,London Region,Lower Than A Level,50-60%,35-55,0,120,FALSE,Pass,54,209,384,1097,418,343,88
+596521,M,Scotland,A Level or Equivalent,20-30%,0-35,0,120,FALSE,Fail,45.25,12,70,86,1,63,40
+596593,M,Scotland,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,54.75,68,342,1504,264,225,82
+596646,M,London Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,46,56,212,133,314,116,59
+596687,M,North Region,HE Qualification,NA,0-35,0,120,FALSE,Distinction,72,299,336,424,1,168,89
+596756,M,South East Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Pass,56.75,187,256,1172,375,191,41
+596828,M,South Region,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,55,440,538,1365,748,320,79
+596860,M,North Western Region,HE Qualification,30-40%,35-55,0,60,FALSE,Pass,51.5,71,216,1011,1345,275,84
+596938,M,West Midlands Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,56.5,180,97,335,55,157,94
+596982,M,East Midlands Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Pass,62.25,313,578,949,424,254,85
+597199,F,North Region,A Level or Equivalent,NA,0-35,0,60,FALSE,Pass,48.75,566,375,1435,78,252,85
+597204,M,Scotland,HE Qualification,0-10%,0-35,0,60,FALSE,Pass,54,226,398,1013,449,368,46
+597241,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Distinction,69.5,208,201,305,655,260,92
+597293,M,South Region,Lower Than A Level,50-60%,0-35,0,120,FALSE,Pass,63,480,475,927,471,184,21
+597485,M,Ireland,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,42.75,534,501,1082,235,313,52
+597627,M,South East Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,60,378,379,876,637,214,83
+597715,M,North Western Region,Lower Than A Level,20-30%,35-55,0,60,FALSE,Pass,55.5,373,739,3078,247,413,92
+597737,M,Scotland,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,40.25,257,159,124,6,124,46
+597747,M,East Anglian Region,HE Qualification,10-20%,0-35,0,90,FALSE,Fail,29.25,475,268,465,9,184,45
+597787,M,London Region,A Level or Equivalent,20-30%,35-55,0,60,FALSE,Distinction,61.5,3642,1876,3806,710,805,94
+597791,M,East Midlands Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,47,217,187,171,881,148,67
+597797,M,Yorkshire Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,53.25,311,283,927,71,188,83
+597819,M,North Region,Lower Than A Level,NA,0-35,0,60,FALSE,Distinction,66.25,476,368,848,77,193,90
+597906,M,Scotland,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,55.5,289,304,768,520,248,66
+597912,M,South East Region,Lower Than A Level,90-100%,0-35,0,120,FALSE,Fail,40,144,216,523,107,225,34
+598077,M,Wales,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,55,143,143,436,74,99,65
+598213,F,North Western Region,No Formal quals,0-10%,0-35,0,60,FALSE,Pass,46.5,978,657,2903,299,790,42
+598215,M,South Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,39,278,420,1107,911,208,65
+598279,F,London Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,55.75,176,254,1160,765,326,66
+598285,M,South West Region,Lower Than A Level,10-20%,35-55,0,120,TRUE,Pass,52.25,299,258,1021,528,183,79
+598294,M,London Region,HE Qualification,10-20%,0-35,0,60,FALSE,Pass,60.25,200,210,692,1227,168,81
+598299,M,London Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,62.75,333,1022,1137,573,291,92
+598306,M,East Anglian Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Fail,35.25,49,66,114,1,79,21
+598376,M,Ireland,HE Qualification,70-80%,35-55,0,60,FALSE,Pass,61.75,405,487,1307,453,422,89
+598385,M,North Region,Lower Than A Level,NA,0-35,0,60,FALSE,Fail,37.25,345,231,189,139,117,47
+598543,M,East Anglian Region,Lower Than A Level,90-100%,0-35,0,90,FALSE,Pass,60.5,358,239,679,467,271,85
+598555,F,London Region,Lower Than A Level,10-20%,0-35,0,120,FALSE,Pass,54.25,387,340,511,103,188,69
+598649,F,London Region,HE Qualification,20-30%,0-35,0,120,FALSE,Fail,39,265,293,310,6,234,70
+598706,M,South Region,Lower Than A Level,0-10%,0-35,0,120,FALSE,Distinction,64.25,1286,2115,2286,4234,1426,92
+598761,F,South Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Distinction,67.75,817,906,1901,678,647,91
+598835,M,Scotland,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Distinction,63.5,588,782,1798,578,391,84
+598966,M,South East Region,A Level or Equivalent,30-40%,0-35,0,120,TRUE,Pass,54.5,583,428,752,0,184,79
+598983,M,Scotland,A Level or Equivalent,30-40%,35-55,0,60,FALSE,Pass,56.5,288,368,1303,400,234,90
+599094,M,Ireland,A Level or Equivalent,80-90%,0-35,0,90,FALSE,Pass,57.25,131,97,176,0,84,72
+599104,M,Scotland,HE Qualification,40-50%,0-35,0,120,FALSE,Pass,61.75,403,731,1804,524,400,88
+599199,M,West Midlands Region,Lower Than A Level,10-20%,0-35,0,60,FALSE,Pass,68.75,720,1361,3148,1793,706,94
+599245,M,South Region,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Pass,59.5,143,350,798,845,233,90
+599289,M,North Western Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Distinction,67.5,682,583,3224,780,451,99
+599315,M,South Region,HE Qualification,70-80%,35-55,0,120,FALSE,Distinction,65.25,854,591,1407,842,400,87
+599370,M,East Anglian Region,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Pass,55.25,295,337,1382,320,258,75
+599445,F,Scotland,HE Qualification,40-50%,0-35,0,90,FALSE,Pass,51.25,258,357,575,659,312,85
+599468,M,North Western Region,Lower Than A Level,80-90%,0-35,0,60,FALSE,Pass,43.5,638,515,2108,760,441,53
+599559,M,East Anglian Region,HE Qualification,20-30%,0-35,0,60,FALSE,Distinction,65,197,326,1416,537,282,90
+599587,M,North Region,Lower Than A Level,NA,0-35,0,60,FALSE,Pass,58.75,294,203,612,1,188,91
+599663,M,North Region,HE Qualification,30-40%,0-35,0,60,FALSE,Pass,57.5,347,347,979,378,242,87
+599683,F,Scotland,HE Qualification,30-40%,0-35,0,90,FALSE,Distinction,64.75,479,592,1261,195,252,93
+599718,M,Scotland,HE Qualification,30-40%,0-35,0,90,FALSE,Pass,61.25,293,171,421,1,95,92
+599783,M,Ireland,A Level or Equivalent,50-60%,0-35,0,90,FALSE,Pass,33.5,244,293,588,574,146,61
+599816,M,East Anglian Region,HE Qualification,90-100%,0-35,0,120,TRUE,Pass,66,528,395,684,285,177,91
+599857,M,Scotland,Lower Than A Level,20-30%,35-55,0,90,FALSE,Pass,57.25,203,443,1225,719,252,90
+600175,M,North Western Region,HE Qualification,80-90%,0-35,0,90,FALSE,Pass,61.25,245,551,1746,584,359,91
+600224,M,North Western Region,A Level or Equivalent,0-10%,0-35,0,120,TRUE,Pass,60.5,277,365,1113,4,226,75
+600542,M,Ireland,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,67.5,277,210,698,191,142,88
+600558,M,Scotland,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,47.5,296,328,1062,178,150,91
+600676,M,South East Region,Lower Than A Level,60-70%,35-55,0,60,FALSE,Pass,67.25,643,601,1847,669,551,98
+600682,M,South Region,HE Qualification,60-70%,0-35,0,90,FALSE,Pass,36.75,188,302,806,348,298,74
+600860,F,Scotland,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,60.5,924,874,1981,971,431,88
+600944,M,South Region,Lower Than A Level,10-20%,0-35,0,60,FALSE,Pass,42,17,34,95,90,35,41
+600991,M,Scotland,HE Qualification,30-40%,0-35,0,90,FALSE,Pass,47.5,262,239,403,158,143,69
+601021,M,Ireland,HE Qualification,20-30%,0-35,0,90,FALSE,Pass,38,189,412,1041,691,229,46
+601042,M,South West Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Fail,34,143,239,444,215,163,55
+601099,M,North Western Region,A Level or Equivalent,10-20%,35-55,0,120,FALSE,Pass,63.5,332,535,1583,344,460,79
+601104,M,South Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Pass,54.5,283,233,653,500,168,73
+601105,M,North Region,Lower Than A Level,0-10%,0-35,0,120,FALSE,Pass,66.25,709,872,1363,811,450,91
+601213,M,South Region,HE Qualification,50-60%,0-35,0,90,FALSE,Distinction,70.25,603,532,584,10,141,100
+601388,F,South East Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,63.5,99,88,163,118,119,87
+601389,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,120,TRUE,Distinction,66,277,461,2133,308,341,92
+601390,F,Yorkshire Region,A Level or Equivalent,50-60%,0-35,0,90,FALSE,Pass,57.5,361,333,817,468,168,95
+601399,M,South West Region,Lower Than A Level,40-50%,0-35,0,120,FALSE,Pass,62,880,194,705,82,334,66
+601430,M,North Western Region,A Level or Equivalent,40-50%,0-35,0,90,FALSE,Pass,53.75,337,332,424,918,425,73
+601439,F,Scotland,HE Qualification,90-100%,0-35,0,90,TRUE,Pass,55.75,141,129,191,0,58,82
+601583,M,North Western Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,59.75,164,221,1523,393,252,85
+601681,M,Ireland,Lower Than A Level,NA,0-35,0,60,FALSE,Pass,71,397,473,1007,419,213,91
+601745,M,London Region,A Level or Equivalent,60-70%,0-35,0,60,TRUE,Fail,44.5,194,237,1137,616,291,76
+601788,M,North Western Region,Lower Than A Level,40-50%,0-35,0,90,FALSE,Pass,62.5,339,314,1017,138,218,72
+601808,F,Scotland,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,58.75,501,265,650,112,177,83
+602099,F,North Region,Lower Than A Level,NA,0-35,0,120,FALSE,Pass,43.25,215,195,158,10,106,77
+602312,M,Yorkshire Region,A Level or Equivalent,40-50%,0-35,0,120,TRUE,Pass,51,196,557,1621,282,455,74
+602451,M,North Region,A Level or Equivalent,10-20%,35-55,0,60,FALSE,Pass,39.5,131,197,491,86,231,69
+602469,F,Wales,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Pass,67.5,241,555,1365,1066,429,98
+602511,F,South West Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,60.5,1450,1162,1890,404,380,99
+602516,F,East Anglian Region,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,59.75,732,461,782,439,248,92
+602577,M,Scotland,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,61.75,708,692,2678,663,602,90
+602669,M,South Region,A Level or Equivalent,50-60%,35-55,0,90,FALSE,Distinction,67.75,406,435,2326,253,318,90
+602713,M,Scotland,HE Qualification,20-30%,0-35,0,90,FALSE,Distinction,71,910,948,1254,355,320,86
+602719,M,East Anglian Region,A Level or Equivalent,80-90%,0-35,0,120,FALSE,Pass,41.25,23,72,301,0,68,37
+602777,M,East Midlands Region,A Level or Equivalent,80-90%,0-35,0,150,FALSE,Pass,58.75,46,280,886,384,198,80
+602837,M,North Region,HE Qualification,NA,0-35,0,60,FALSE,Pass,54,185,119,252,697,202,78
+602895,F,Scotland,HE Qualification,50-60%,0-35,0,90,FALSE,Fail,44.75,222,199,336,19,196,70
+602948,M,South Region,A Level or Equivalent,70-80%,35-55,0,90,FALSE,Pass,61,176,205,1218,612,194,84
+603059,M,Ireland,Lower Than A Level,NA,0-35,0,120,FALSE,Distinction,67.25,168,141,1020,548,177,74
+603155,M,Scotland,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,50.75,377,284,636,927,184,80
+603170,M,London Region,Lower Than A Level,40-50%,0-35,0,90,FALSE,Distinction,69.25,265,313,781,468,228,94
+603231,M,Scotland,HE Qualification,60-70%,0-35,0,60,FALSE,Pass,60.5,146,634,2056,661,745,90
+603300,M,North Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,65.5,424,639,2156,505,319,65
+603327,M,Scotland,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,57.5,408,308,1077,209,232,90
+603341,M,North Region,Lower Than A Level,NA,0-35,0,60,FALSE,Pass,53.25,86,89,146,3,111,32
+603389,M,East Midlands Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,61.75,83,300,1329,306,192,85
+603437,M,London Region,Lower Than A Level,20-30%,0-35,0,120,FALSE,Pass,54.25,610,449,931,449,251,84
+603529,M,Scotland,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,57.5,199,277,1339,182,218,91
+603597,M,London Region,A Level or Equivalent,80-90%,0-35,0,90,FALSE,Pass,62.5,120,413,1546,431,234,65
+603600,M,East Anglian Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,61.75,335,323,919,394,212,95
+603611,M,East Anglian Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,55.5,203,214,700,46,158,71
+603651,M,South Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Distinction,65,926,681,1977,406,285,97
+603819,M,Scotland,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Pass,59.25,242,305,892,186,138,81
+604379,M,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,60.25,123,67,227,8,81,89
+604416,M,Ireland,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Fail,55.25,93,106,272,1,130,71
+604427,M,London Region,A Level or Equivalent,10-20%,0-35,0,150,FALSE,Pass,55.25,70,233,529,235,163,86
+604478,M,North Region,Lower Than A Level,NA,35-55,0,120,FALSE,Pass,63,1005,727,1725,607,508,96
+604633,M,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,60.75,93,120,299,223,111,34
+604635,M,Scotland,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Pass,52,38,93,385,1,79,65
+604700,F,Scotland,HE Qualification,70-80%,35-55,0,60,FALSE,Distinction,62.5,488,450,1106,401,335,95
+604741,M,East Midlands Region,A Level or Equivalent,70-80%,0-35,0,150,FALSE,Pass,44.5,154,145,373,39,77,24
+604755,M,East Anglian Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,59.25,125,151,198,1,122,59
+604766,M,London Region,A Level or Equivalent,10-20%,35-55,0,60,FALSE,Distinction,62,531,441,1875,606,297,95
+604799,M,West Midlands Region,Lower Than A Level,60-70%,0-35,0,120,FALSE,Pass,51.5,337,316,430,4,185,77
+604879,F,South West Region,HE Qualification,20-30%,0-35,0,120,FALSE,Distinction,65.75,669,602,1475,409,387,95
+604945,M,Scotland,HE Qualification,70-80%,0-35,0,60,FALSE,Fail,42.75,110,107,380,74,124,58
+605012,M,London Region,A Level or Equivalent,30-40%,0-35,0,120,FALSE,Pass,53.25,136,249,291,85,165,67
+605048,M,North Region,HE Qualification,0-10%,0-35,0,60,FALSE,Pass,62.25,327,347,2330,305,312,88
+605069,M,Scotland,Lower Than A Level,50-60%,0-35,0,60,FALSE,Pass,38.5,11,190,977,268,118,71
+605195,M,Scotland,HE Qualification,60-70%,0-35,0,90,FALSE,Distinction,66,214,439,807,423,273,94
+605265,F,North Region,HE Qualification,NA,35-55,0,60,FALSE,Pass,47,141,219,761,113,244,77
+605409,F,Scotland,A Level or Equivalent,40-50%,35-55,0,60,FALSE,Distinction,66.75,630,602,2537,437,419,94
+605459,M,South West Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Pass,63,116,246,762,139,102,79
+605538,M,South Region,Lower Than A Level,80-90%,0-35,0,120,FALSE,Pass,63.25,161,497,1119,911,286,88
+605571,F,Scotland,HE Qualification,70-80%,35-55,0,90,FALSE,Distinction,71.75,1206,1377,3185,633,796,99
+605589,M,Scotland,HE Qualification,20-30%,0-35,0,120,FALSE,Pass,42.25,103,417,1333,592,279,73
+605598,F,South Region,A Level or Equivalent,70-80%,0-35,0,120,FALSE,Pass,57.5,539,537,1221,505,324,78
+605621,M,South West Region,A Level or Equivalent,30-40%,0-35,0,120,FALSE,Pass,62.25,215,171,1183,218,152,85
+605666,M,East Midlands Region,HE Qualification,60-70%,0-35,0,60,FALSE,Pass,67.75,341,137,251,198,105,84
+605756,M,South East Region,Lower Than A Level,50-60%,0-35,0,120,FALSE,Pass,52.5,176,113,1014,404,277,25
+605886,F,South West Region,A Level or Equivalent,80-90%,35-55,0,60,FALSE,Fail,24.25,973,584,1201,187,328,49
+605954,M,Yorkshire Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Fail,41.5,50,139,323,119,101,69
+605974,M,North Region,HE Qualification,NA,0-35,0,180,FALSE,Pass,39.5,341,572,1921,298,488,3
+605988,M,Scotland,HE Qualification,80-90%,35-55,0,60,FALSE,Pass,61,944,550,1871,536,458,79
+605993,M,West Midlands Region,Lower Than A Level,50-60%,0-35,0,90,FALSE,Fail,61.5,113,180,896,185,174,71
+606002,F,West Midlands Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Pass,47.5,45,265,1053,20,250,58
+606062,M,London Region,A Level or Equivalent,30-40%,35-55,0,60,FALSE,Pass,56.75,136,303,541,92,160,85
+606104,F,North Region,HE Qualification,NA,35-55,0,60,FALSE,Distinction,65,853,721,2739,637,647,98
+606304,M,Ireland,Lower Than A Level,NA,35-55,0,120,FALSE,Pass,68,249,287,522,49,194,94
+606386,M,Ireland,Lower Than A Level,90-100%,0-35,0,120,FALSE,Fail,46.5,121,202,929,41,187,65
+606444,F,North Western Region,Lower Than A Level,40-50%,0-35,0,90,FALSE,Distinction,66.5,719,557,2228,413,378,97
+606711,M,Ireland,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,62,397,158,614,438,205,82
+606712,M,North Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,55.75,220,190,588,170,127,71
+606835,M,South West Region,Lower Than A Level,80-90%,35-55,0,120,FALSE,Pass,67.25,1268,727,2574,1142,560,94
+606903,F,South East Region,HE Qualification,60-70%,35-55,0,60,FALSE,Pass,59,401,345,746,633,275,96
+606939,M,Yorkshire Region,HE Qualification,40-50%,35-55,0,90,FALSE,Pass,71.5,193,431,1362,263,296,97
+606966,M,Scotland,HE Qualification,50-60%,0-35,0,60,FALSE,Fail,38.25,65,121,402,0,85,47
+606990,M,London Region,Lower Than A Level,30-40%,0-35,0,60,FALSE,Pass,51.25,157,142,237,622,129,22
+607047,M,Scotland,Post Graduate Qualification,90-100%,0-35,0,60,FALSE,Pass,60.75,95,195,809,238,211,85
+607052,M,East Midlands Region,A Level or Equivalent,10-20%,35-55,0,90,FALSE,Pass,70.5,1221,503,842,794,259,93
+607118,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,47,148,219,677,16,91,70
+607247,F,Scotland,HE Qualification,70-80%,35-55,0,60,FALSE,Distinction,63.25,484,733,2080,470,672,98
+607538,M,Ireland,Lower Than A Level,NA,35-55,0,60,FALSE,Pass,45.5,902,401,1278,325,301,62
+607650,M,Scotland,A Level or Equivalent,70-80%,0-35,0,90,FALSE,Pass,60.75,62,225,686,136,191,86
+607794,M,South Region,A Level or Equivalent,90-100%,35-55,0,150,FALSE,Distinction,65,928,477,1055,367,212,91
+607938,M,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,120,FALSE,Pass,44.75,403,305,779,791,232,69
+607979,M,North Region,A Level or Equivalent,NA,35-55,0,60,FALSE,Distinction,62.75,625,441,1850,560,322,93
+608008,F,North Region,A Level or Equivalent,20-30%,0-35,0,120,FALSE,Pass,52.25,447,516,1091,497,368,83
+608043,M,South East Region,HE Qualification,20-30%,0-35,0,60,FALSE,Pass,53.5,139,315,1455,587,276,75
+608144,M,North Region,A Level or Equivalent,NA,35-55,0,90,TRUE,Distinction,66.5,335,217,532,261,200,85
+608231,M,South Region,HE Qualification,90-100%,35-55,0,120,FALSE,Pass,52.5,86,142,780,71,164,60
+608349,M,South Region,Lower Than A Level,30-40%,35-55,0,180,FALSE,Pass,52,1576,896,1410,551,445,78
+608356,M,North Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Pass,52.75,93,197,1308,138,181,89
+608421,M,South East Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Distinction,61.25,1255,806,2121,1260,453,94
+608422,M,North Region,A Level or Equivalent,NA,35-55,0,90,FALSE,Pass,54.25,76,196,1356,131,134,56
+608477,M,Yorkshire Region,Lower Than A Level,30-40%,0-35,0,120,FALSE,Pass,51.5,359,391,777,920,196,90
+608681,M,North Western Region,Lower Than A Level,10-20%,0-35,0,60,TRUE,Pass,58.25,389,117,404,534,134,73
+608698,M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Pass,58.5,220,98,217,502,170,80
+608737,M,North Western Region,A Level or Equivalent,30-40%,35-55,0,90,TRUE,Fail,50.75,177,171,360,684,165,70
+608747,M,East Midlands Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,52.25,127,220,1128,89,261,86
+608753,M,East Midlands Region,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Distinction,65.25,202,249,498,241,190,86
+608827,M,East Anglian Region,A Level or Equivalent,60-70%,0-35,0,120,FALSE,Pass,56,82,318,598,47,218,76
+608913,M,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,50.5,432,182,1127,310,194,76
+608966,M,Wales,A Level or Equivalent,80-90%,0-35,0,60,FALSE,Distinction,62,212,364,1385,2,207,98
+609097,F,Scotland,HE Qualification,50-60%,0-35,0,60,FALSE,Pass,48.25,429,536,1269,519,253,75
+609220,M,South East Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,61.75,725,933,4656,2217,990,90
+609221,M,London Region,HE Qualification,60-70%,0-35,0,120,FALSE,Pass,68.5,48,120,845,17,134,95
+609229,M,Ireland,A Level or Equivalent,NA,35-55,0,120,FALSE,Pass,64.5,5272,1797,987,1711,345,24
+609277,F,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,90,TRUE,Distinction,65,567,712,2947,1214,766,83
+609416,M,Wales,HE Qualification,30-40%,35-55,0,60,FALSE,Pass,60.75,449,463,1110,330,274,87
+609439,M,South East Region,A Level or Equivalent,60-70%,0-35,0,60,FALSE,Pass,57.25,1276,710,1306,758,297,90
+609537,M,North Region,A Level or Equivalent,90-100%,0-35,0,60,FALSE,Distinction,68.75,854,440,1435,616,350,93
+609743,M,London Region,Lower Than A Level,40-50%,0-35,0,60,FALSE,Pass,44.25,398,384,846,661,161,70
+609882,F,London Region,HE Qualification,10-20%,35-55,0,60,FALSE,Distinction,63.75,929,828,1674,91,415,95
+609908,M,South East Region,Lower Than A Level,40-50%,35-55,0,60,FALSE,Pass,52.75,491,550,1091,357,279,83
+609985,M,West Midlands Region,A Level or Equivalent,30-40%,0-35,0,150,FALSE,Pass,35.25,77,144,457,4,132,60
+610097,M,North Region,HE Qualification,NA,35-55,0,60,FALSE,Pass,56.25,447,236,1429,497,217,94
+610099,M,West Midlands Region,A Level or Equivalent,90-100%,35-55,0,120,FALSE,Pass,65,179,291,487,975,358,87
+610172,F,East Midlands Region,Lower Than A Level,0-10%,35-55,0,60,FALSE,Pass,45.5,108,183,1143,431,181,80
+610278,M,Ireland,A Level or Equivalent,40-50%,0-35,0,120,FALSE,Distinction,61.75,180,344,789,101,214,94
+610312,M,North Western Region,Lower Than A Level,10-20%,0-35,0,90,FALSE,Pass,61.5,505,603,1550,685,386,84
+610324,M,Scotland,HE Qualification,30-40%,0-35,0,60,FALSE,Pass,57,281,435,1328,1,152,58
+610643,M,South East Region,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Pass,54.75,319,378,531,566,184,44
+610687,M,Scotland,Lower Than A Level,0-10%,35-55,0,120,FALSE,Pass,57.25,352,308,1455,786,263,84
+610746,M,North Region,HE Qualification,NA,35-55,0,60,FALSE,Pass,62.25,481,421,959,414,305,85
+610933,M,South Region,A Level or Equivalent,30-40%,0-35,0,60,FALSE,Pass,52.5,85,107,195,70,89,66
+611039,M,Ireland,Lower Than A Level,NA,35-55,0,60,FALSE,Pass,61,313,309,790,327,263,83
+611226,M,West Midlands Region,HE Qualification,80-90%,35-55,0,60,FALSE,Distinction,71.75,299,401,1461,252,304,95
+611396,M,Ireland,HE Qualification,20-30%,0-35,0,90,FALSE,Pass,45,351,340,739,301,195,71
+898594,F,West Midlands Region,HE Qualification,60-70%,55<=,0,60,FALSE,Pass,71.75,7670,3150,2266,722,1193,98
+984347,M,Yorkshire Region,A Level or Equivalent,80-90%,35-55,0,60,FALSE,Distinction,70.25,2782,1516,525,550,564,100
+985062,M,South West Region,HE Qualification,50-60%,35-55,0,120,FALSE,Pass,54,493,448,1083,343,506,73
+990155,M,South Region,HE Qualification,80-90%,35-55,0,90,FALSE,Distinction,66,394,264,1398,487,272,93
+1064492,M,South Region,HE Qualification,90-100%,35-55,0,120,FALSE,Distinction,73.25,1912,815,977,606,328,99
+1065824,M,Wales,HE Qualification,50-60%,35-55,0,150,FALSE,Distinction,69.5,3781,1977,908,422,361,93
+1100143,M,South West Region,A Level or Equivalent,50-60%,35-55,0,120,FALSE,Distinction,68.75,3910,1972,1876,993,543,89
+1319999,M,North Western Region,HE Qualification,80-90%,35-55,0,90,FALSE,Pass,58.75,407,258,499,0,112,20
+1397617,M,Ireland,Lower Than A Level,NA,35-55,0,180,FALSE,Distinction,70.5,1252,696,1557,575,422,85
+1417707,F,South West Region,Lower Than A Level,30-40%,35-55,1,60,FALSE,Pass,47.5,1211,948,1496,714,464,34
+1420537,M,West Midlands Region,HE Qualification,70-80%,35-55,0,60,FALSE,Pass,67,273,328,963,554,280,92
+1492571,M,Ireland,A Level or Equivalent,0-10%,35-55,0,60,FALSE,Pass,62.5,160,367,1884,660,351,79
+1494577,M,South Region,A Level or Equivalent,70-80%,35-55,0,120,FALSE,Pass,62,149,156,542,76,145,26
+1504653,M,East Anglian Region,Lower Than A Level,70-80%,35-55,0,60,TRUE,Pass,67,214,468,1755,705,385,94
+1513001,M,Scotland,HE Qualification,40-50%,35-55,0,90,FALSE,Pass,58.25,241,152,271,165,117,70
+1515509,M,East Midlands Region,Lower Than A Level,60-70%,35-55,0,90,FALSE,Pass,63.5,4175,2060,1557,851,575,95
+1541472,M,South Region,HE Qualification,90-100%,35-55,0,60,FALSE,Pass,61.75,249,303,768,854,224,71
+1559964,M,East Anglian Region,Lower Than A Level,30-40%,35-55,0,60,FALSE,Distinction,70.75,709,524,1902,535,379,88
+1634278,M,Yorkshire Region,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,48.5,111,193,1053,25,198,63
+1636725,M,Scotland,HE Qualification,80-90%,35-55,0,60,FALSE,Pass,59,202,228,697,568,111,89
+1641344,M,Scotland,A Level or Equivalent,50-60%,35-55,0,60,FALSE,Pass,72.75,578,1011,2679,534,550,100
+1644647,M,North Western Region,A Level or Equivalent,40-50%,35-55,0,60,FALSE,Distinction,70.75,223,324,591,199,142,94
+1694120,M,South East Region,HE Qualification,90-100%,35-55,0,90,FALSE,Pass,58.75,313,711,1306,609,514,94
+1759799,M,Yorkshire Region,A Level or Equivalent,70-80%,35-55,0,60,FALSE,Pass,69.5,1110,618,2162,428,409,77
+1852968,F,South East Region,HE Qualification,40-50%,35-55,0,60,FALSE,Distinction,69.5,702,782,1201,511,477,100
+1864086,M,Scotland,A Level or Equivalent,70-80%,35-55,0,60,TRUE,Pass,45.75,32,61,139,0,71,71
+1876636,F,South West Region,A Level or Equivalent,60-70%,35-55,0,120,FALSE,Pass,69.75,1936,719,1292,547,324,92
+1910049,F,East Midlands Region,A Level or Equivalent,70-80%,35-55,1,120,FALSE,Pass,70,570,323,1054,843,393,95
+1913166,M,London Region,HE Qualification,10-20%,35-55,0,60,FALSE,Distinction,64.25,231,268,1811,726,275,92
+1917335,F,Ireland,A Level or Equivalent,60-70%,0-35,0,100,FALSE,Pass,59.25,2332,2594,1964,901,703,32
+1935735,M,London Region,A Level or Equivalent,20-30%,35-55,0,360,FALSE,Fail,27.75,222,415,1237,226,249,54
+1945945,M,London Region,Lower Than A Level,20-30%,0-35,0,60,FALSE,Pass,52.5,1333,1112,2970,607,566,92
+1950923,M,North Western Region,Lower Than A Level,20-30%,35-55,0,60,FALSE,Pass,60.25,471,320,503,572,206,91
+1951127,M,North Western Region,Lower Than A Level,40-50%,35-55,0,150,FALSE,Distinction,62,824,562,864,658,226,91
+1954147,M,Wales,Lower Than A Level,60-70%,35-55,0,60,FALSE,Pass,60.25,270,337,1001,222,206,89
+1980822,F,Scotland,Lower Than A Level,80-90%,0-35,1,60,FALSE,Pass,54.5,120,90,271,454,123,79
+1982166,M,South Region,A Level or Equivalent,40-50%,35-55,0,60,FALSE,Distinction,70.25,843,998,1735,772,432,98
+1983921,M,North Western Region,A Level or Equivalent,60-70%,35-55,0,120,FALSE,Pass,44.25,120,252,969,1,184,44
+1992145,M,Scotland,A Level or Equivalent,60-70%,35-55,1,90,FALSE,Pass,44.75,864,709,1981,223,466,81
+2053381,M,Wales,A Level or Equivalent,60-70%,0-35,0,90,FALSE,Fail,63,120,95,408,1,120,23
+2056416,M,South Region,Lower Than A Level,80-90%,35-55,0,120,FALSE,Distinction,65,739,563,1134,504,307,81
+2056486,M,East Anglian Region,Lower Than A Level,50-60%,35-55,0,60,FALSE,Pass,62,313,539,1540,757,324,84
+2104123,M,Scotland,A Level or Equivalent,50-60%,35-55,0,90,FALSE,Pass,53.5,207,168,417,139,112,98
+2105230,M,North Western Region,HE Qualification,20-30%,0-35,0,120,FALSE,Fail,32,40,184,369,2,110,71
+2137171,M,East Anglian Region,HE Qualification,30-40%,0-35,0,60,FALSE,Pass,60,185,284,926,171,116,90
+2143739,M,North Western Region,Lower Than A Level,40-50%,35-55,0,180,FALSE,Pass,51.75,445,354,792,662,295,78
+2145940,M,North Western Region,Lower Than A Level,0-10%,0-35,0,120,FALSE,Pass,49.25,98,198,523,436,170,85
+2146277,F,East Anglian Region,A Level or Equivalent,80-90%,35-55,0,90,FALSE,Distinction,69.25,388,341,1611,419,359,97
+2148540,F,Yorkshire Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Pass,33.25,213,306,1348,515,237,73
+2149735,F,East Midlands Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Pass,61.75,99,141,245,583,110,93
+2162410,F,South East Region,HE Qualification,50-60%,35-55,0,60,FALSE,Distinction,68.25,219,266,1092,513,205,97
+2182333,M,South West Region,A Level or Equivalent,40-50%,0-35,0,60,FALSE,Distinction,64.75,790,517,2007,522,448,89
+2193185,M,West Midlands Region,A Level or Equivalent,0-10%,0-35,0,180,FALSE,Pass,55,33,148,553,1,135,83
+2197175,F,East Anglian Region,A Level or Equivalent,60-70%,35-55,0,90,FALSE,Pass,66.25,1193,781,1960,757,405,81
+2218693,M,South West Region,Lower Than A Level,90-100%,0-35,0,120,TRUE,Pass,70.25,978,565,1163,867,358,93
+2238148,M,Scotland,A Level or Equivalent,0-10%,35-55,0,60,TRUE,Distinction,67.25,725,448,1548,507,450,89
+2239746,M,East Anglian Region,Lower Than A Level,90-100%,0-35,1,120,TRUE,Pass,47.5,5995,1735,640,3368,350,80
+2243505,M,South Region,A Level or Equivalent,40-50%,0-35,0,90,FALSE,Pass,51.5,379,155,359,278,175,66
+2250842,F,East Anglian Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Distinction,67,146,207,539,328,197,88
+2252765,F,Scotland,HE Qualification,90-100%,35-55,0,60,FALSE,Distinction,63.75,257,405,805,536,190,94
+2286312,M,South West Region,HE Qualification,30-40%,35-55,0,60,FALSE,Pass,56.75,72,112,415,0,75,94
+2290267,M,North Region,Lower Than A Level,40-50%,0-35,1,120,FALSE,Pass,46.25,155,415,851,658,226,54
+2290883,M,North Region,HE Qualification,80-90%,35-55,0,60,FALSE,Pass,64.25,99,410,1614,69,276,88
+2304417,M,Scotland,HE Qualification,30-40%,35-55,0,70,FALSE,Pass,53.75,1690,907,1583,398,430,69
+2312279,M,West Midlands Region,Lower Than A Level,0-10%,0-35,0,60,FALSE,Pass,48.5,792,994,2943,1052,702,29
+2323944,M,South Region,A Level or Equivalent,90-100%,0-35,0,90,TRUE,Pass,66.75,193,331,1911,36,238,98
+2326475,M,South Region,A Level or Equivalent,90-100%,35-55,0,60,FALSE,Pass,42.5,130,167,228,72,101,75
+2337889,M,West Midlands Region,A Level or Equivalent,10-20%,0-35,1,60,TRUE,Pass,62.5,349,271,1125,1022,160,84
+2343337,M,Scotland,Lower Than A Level,40-50%,0-35,0,90,FALSE,Distinction,65.5,297,172,185,246,105,85
+2344957,M,South Region,Lower Than A Level,60-70%,0-35,1,60,TRUE,Pass,53.5,332,841,1641,835,463,53
+2345900,F,South West Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Distinction,68.5,1332,640,1423,360,296,97
+2357629,M,London Region,Lower Than A Level,30-40%,0-35,0,60,TRUE,Distinction,66.5,169,187,871,138,114,95
+2364160,M,South East Region,A Level or Equivalent,30-40%,35-55,0,210,FALSE,Pass,63.25,732,603,573,1029,251,77
+2372788,M,London Region,Lower Than A Level,10-20%,0-35,0,60,FALSE,Distinction,69,670,469,2253,371,407,92
+2374002,F,East Anglian Region,HE Qualification,90-100%,35-55,0,60,FALSE,Distinction,62.75,2330,1310,1581,1159,572,96
+2379512,M,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,60,FALSE,Pass,56.25,710,352,1334,336,242,76
+2383780,M,London Region,Lower Than A Level,10-20%,35-55,2,60,FALSE,Fail,28.5,188,541,1642,90,568,56
+2393230,M,North Western Region,Lower Than A Level,0-10%,0-35,0,60,TRUE,Pass,33.75,404,348,771,539,135,70
+2393261,M,North Western Region,Lower Than A Level,60-70%,0-35,0,60,FALSE,Pass,46.25,222,93,50,52,45,66
+2396381,M,Yorkshire Region,A Level or Equivalent,40-50%,55<=,0,120,FALSE,Pass,53,285,522,1031,919,285,76
+2411773,M,Wales,A Level or Equivalent,50-60%,0-35,0,60,FALSE,Pass,70,113,314,1567,337,330,98
+2412152,F,South Region,A Level or Equivalent,70-80%,35-55,0,60,FALSE,Pass,64.5,258,632,1040,733,639,94
+2415436,M,South West Region,A Level or Equivalent,20-30%,0-35,0,150,FALSE,Pass,59.5,69,159,197,385,133,75
+2423002,M,East Anglian Region,Lower Than A Level,30-40%,0-35,0,90,FALSE,Pass,55.25,608,642,2047,433,395,82
+2435795,M,Wales,HE Qualification,60-70%,35-55,0,60,FALSE,Pass,55,328,304,562,437,230,73
+2445085,M,South Region,Lower Than A Level,50-60%,0-35,0,210,TRUE,Pass,67.75,383,695,2215,635,536,93
+2449819,M,East Anglian Region,A Level or Equivalent,60-70%,35-55,0,60,FALSE,Pass,50.75,412,896,1883,767,510,65
+2454653,F,East Anglian Region,Lower Than A Level,30-40%,35-55,0,150,FALSE,Pass,59.5,429,798,1919,1075,487,90
+2454878,F,South Region,Lower Than A Level,40-50%,0-35,0,90,TRUE,Pass,65,191,283,1239,395,257,90
+2465105,F,South Region,A Level or Equivalent,90-100%,55<=,0,60,FALSE,Fail,24.5,514,656,737,58,421,0
+2465589,M,East Midlands Region,Lower Than A Level,20-30%,0-35,0,195,FALSE,Pass,60.5,58,315,809,1297,269,75
+2469321,F,East Anglian Region,A Level or Equivalent,50-60%,0-35,0,120,FALSE,Pass,58.75,290,523,1264,540,266,86
+2469688,M,London Region,A Level or Equivalent,10-20%,0-35,0,60,FALSE,Pass,65,644,563,1229,204,329,90
+2472132,M,North Region,HE Qualification,NA,35-55,0,60,FALSE,Pass,67.25,77,78,176,6,86,88
+2487982,M,South East Region,HE Qualification,30-40%,35-55,4,60,FALSE,Pass,64.5,3169,2593,4164,1274,1037,96
+2500149,M,Scotland,Lower Than A Level,30-40%,35-55,0,90,FALSE,Pass,62.25,502,656,999,532,312,89
+2503063,M,East Midlands Region,A Level or Equivalent,10-20%,0-35,0,90,FALSE,Pass,69,1546,372,327,351,156,86
+2523035,M,North Region,A Level or Equivalent,0-10%,35-55,0,90,FALSE,Pass,51.5,49,136,333,180,105,81
+2534165,M,South East Region,HE Qualification,90-100%,35-55,1,120,FALSE,Pass,53,514,428,1943,496,465,41
+2542431,M,East Midlands Region,A Level or Equivalent,30-40%,0-35,0,90,FALSE,Pass,61.5,89,80,255,481,117,86
+2545923,M,South West Region,HE Qualification,40-50%,35-55,0,90,FALSE,Distinction,64.5,840,787,1281,554,319,93
+2548055,M,Scotland,Lower Than A Level,80-90%,35-55,0,60,FALSE,Pass,68.75,426,393,1945,930,330,86
+2555225,M,Yorkshire Region,A Level or Equivalent,70-80%,0-35,0,60,FALSE,Pass,57.5,873,445,452,552,237,85
+2567571,F,Scotland,HE Qualification,70-80%,35-55,0,60,FALSE,Pass,58.75,1512,1130,2671,609,653,85
+2572441,M,South Region,A Level or Equivalent,90-100%,0-35,0,150,TRUE,Pass,57.5,275,359,1259,844,349,69
+2579401,M,South Region,Lower Than A Level,90-100%,0-35,0,60,FALSE,Pass,37.5,58,68,101,579,66,40
+2580545,M,North Western Region,Lower Than A Level,20-30%,35-55,2,60,FALSE,Pass,56.25,175,436,1190,512,239,80
+2595641,M,South West Region,A Level or Equivalent,10-20%,0-35,0,120,FALSE,Pass,53,106,213,495,97,104,15
+2596621,M,South West Region,A Level or Equivalent,50-60%,55<=,0,60,FALSE,Distinction,64.25,1688,556,1365,426,340,93
+2602264,M,London Region,Post Graduate Qualification,10-20%,35-55,0,150,FALSE,Distinction,63.25,90,210,659,255,267,91
+2613746,M,Scotland,A Level or Equivalent,0-10%,0-35,0,60,FALSE,Pass,54.5,179,191,471,193,130,81
+2614277,F,Scotland,HE Qualification,80-90%,35-55,0,140,FALSE,Pass,57.75,847,788,1084,828,205,75
+2621734,M,London Region,A Level or Equivalent,0-10%,0-35,0,120,FALSE,Fail,33,18,106,367,56,87,28
+2623496,M,West Midlands Region,HE Qualification,70-80%,35-55,0,180,FALSE,Pass,52,720,418,605,646,206,84
+2634868,M,North Western Region,HE Qualification,80-90%,0-35,0,90,FALSE,Distinction,66.75,554,424,1364,447,220,88
+2639319,F,Scotland,HE Qualification,10-20%,35-55,0,60,FALSE,Pass,64.25,2002,1010,1196,812,514,90
+2650555,M,North Region,Lower Than A Level,0-10%,0-35,1,60,FALSE,Pass,52,225,190,655,531,162,83
+2655370,M,London Region,HE Qualification,50-60%,35-55,0,240,FALSE,Pass,33,88,110,264,382,84,58
+2663131,M,London Region,HE Qualification,20-30%,0-35,0,90,FALSE,Pass,59.5,82,166,459,783,119,74
+2686536,M,South West Region,Lower Than A Level,30-40%,35-55,0,90,FALSE,Pass,60.5,399,354,1449,778,328,89
+2686609,M,South West Region,A Level or Equivalent,30-40%,0-35,1,60,TRUE,Pass,39.5,215,506,587,785,233,48
+2687989,M,Ireland,A Level or Equivalent,NA,0-35,0,60,FALSE,Pass,58.25,588,387,1556,477,245,79
+2697921,M,East Anglian Region,Lower Than A Level,80-90%,0-35,0,120,FALSE,Fail,54,294,250,767,107,147,89
+2698125,M,North Region,Lower Than A Level,70-80%,0-35,0,60,FALSE,Pass,50.25,54,60,218,8,63,71
