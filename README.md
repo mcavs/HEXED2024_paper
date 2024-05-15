@@ -6,7 +6,7 @@ This repository consists the supplemental materials of the paper "The Actionable
 2. Import the dataset [data_import.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_import.R)
 3. Preprocess the imported dataset [data_preprocess.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_preprocess.R)
 4. Split the dataset as train and test set [data_splitting.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_splitting.R)
-5. Train a random forest model on the train set [modeling_with_ranger.R](https://github.com/mcavs/HEXED2024_paper/blob/main/modeling_with_ranger.R)
+5. Train the model on the train set [modeling.R](https://github.com/mcavs/HEXED2024_paper/blob/main/modeling.R)
 6. Generate counterfactuals using the MOC method [modeling_with_ranger.R](https://github.com/mcavs/HEXED2024_paper/blob/main/MOC.R)
 7. Generate counterfactuals using the NICE method based on proximity [NiCE_pr.R](https://github.com/mcavs/HEXED2024_paper/blob/main/NiCE_pr.R)
 8. Generate counterfactuals using the NICE method based on sparsity [NiCE_sp.R](https://github.com/mcavs/HEXED2024_paper/blob/main/NiCE_sp.R)
