@@ -1,6 +1,3 @@
-# install.packages("ranger")
-library(ranger)
-
 train_data$final_result <- as.factor(train_data$final_result)
 test_data$final_result  <- as.factor(test_data$final_result)
 

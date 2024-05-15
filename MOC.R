@@ -1,8 +1,3 @@
-# install.packages("counterfactuals")
-# install.packages("iml")
-library(counterfactuals)
-library(iml)
-
 predictor <- Predictor$new(model)
 
 pred  <- predict(model, test_data[,-15])
@@ -18,7 +13,10 @@ moc_classif <- MOCClassif$new(
                      "disability", 
                      "region",
                      "age_band",
-                     "highest_education"),
+                     "highest_education",
+                     "imd_band",
+                     "num_of_prev_attempts",
+                     "cummulative_assessment_results"),
   max_changed = NULL,
   mu = 20L,
   termination_crit = "gens",

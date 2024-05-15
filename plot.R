@@ -1,5 +1,4 @@
-# install.packages("ggplot2")
-library(ggplot2)
+combined_evals <- read_csv("combined_evals.csv")
 
 summarised_data <- combined_evals |> 
   group_by(method, metric) |>

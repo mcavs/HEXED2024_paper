@@ -1,5 +1,3 @@
-library(dplyr)
-
 average_evals <- combined_evals |> 
   group_by(method, metric) |>
   summarise(mean_val = mean(value))
