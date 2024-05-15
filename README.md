@@ -1,6 +1,8 @@
 # The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods
 
-This repository consists the supplemental materials of the paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods" which is submitted to [Human-Centric eXplainable AI in Education Workshop](https://hexed-workshop.github.io/) will be held in conjunction with [Educational Data Mining 2024](https://educationaldatamining.org/edm2024/). The following steps can be runned to reproduce the result in the paper:
+This repository consists the supplemental materials of the paper "The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods" which is submitted to [Human-Centric eXplainable AI in Education Workshop](https://hexed-workshop.github.io/) will be held in conjunction with [Educational Data Mining 2024](https://educationaldatamining.org/edm2024/). 
+
+The following steps can be runned to reproduce the result in the paper:
 
 1. Install the essential packages [install_packages.R](https://github.com/mcavs/HEXED2024_paper/blob/main/install_packages.R)
 2. Import the dataset [data_import.R](https://github.com/mcavs/HEXED2024_paper/blob/main/data_import.R)
@@ -38,6 +40,12 @@ We used the Open University Learning Analytics dataset - information about 22 co
 | n\_clicks\_course\_page | the number of clicks on course page                                                 | numeric      | [0, 1196]       |
 
 The dataset given in `data/FFF_2013J_data.csv`. It can be prepared using the .Rmd file `data/data_preparation.Rmd`.
+
+
+## Results
+
+The generated counterfactuals by each method and their quality criteria are stored in `eval_files` folder. The files in this folder created in Steps 6-9 above.
+
 
 ## Plots
 There are two plots `Figures 3` and `4` in the paper. 
