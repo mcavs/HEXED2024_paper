@@ -11,6 +11,4 @@ for(i in 1:dim(x_interest)[1]){
 }
 
 wi_evals <- do.call(rbind, eval)
-setwd("/cloud/project/eval_files")
 write.csv(wi_evals, "wi_evals.csv", row.names = FALSE)
-setwd("/cloud/project")
