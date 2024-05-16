@@ -17,6 +17,4 @@ for(i in 1:dim(x_interest)[1]){
   eval[[i]] <- nice_cfactuals[[i]]$evaluate()
 }
 nice_sp_evals <- do.call(rbind, eval)
-setwd("/cloud/project/eval_files")
 write.csv(nice_sp_evals, "nice_sp_evals.csv", row.names = FALSE)
-setwd("/cloud/project")
