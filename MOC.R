@@ -47,6 +47,4 @@ for(i in 1:dim(x_interest)[1]){
 }
 
 moc_evals <- do.call(rbind, eval)
-setwd("/cloud/project/eval_files")
 write.csv(moc_evals, "moc_evals.csv", row.names = FALSE)
-setwd("/cloud/project")
