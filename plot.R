@@ -17,7 +17,13 @@ ggplot(summarised_data, aes(x     = method,
   theme_bw() +
   theme(legend.position = "bottom",
         panel.grid.minor.x = element_blank(),
-        panel.grid.major.x = element_blank()) 
+        panel.grid.major.x = element_blank(),
+        text = element_text(size = 20), 
+        axis.text = element_text(size = 20), 
+        axis.title = element_text(size = 20), 
+        plot.title = element_text(size = 20),
+        legend.text = element_text(size = 20), 
+        legend.title = element_text(size = 20))
 
 ggplot(combined_evals, aes(x = method, y = value, fill = method)) + 
   geom_boxplot(outliers = FALSE, staplewidth = 0.5) + 
@@ -27,13 +33,10 @@ ggplot(combined_evals, aes(x = method, y = value, fill = method)) +
   theme(legend.position = "bottom",
         axis.title.y    = element_blank(),
         axis.text.y     = element_blank(),
-        axis.ticks.y    = element_blank()) 
-
-
-
-
-
-
-
-
-
+        axis.ticks.y    = element_blank(),
+        text = element_text(size = 20), 
+        axis.text = element_text(size = 20), 
+        axis.title = element_text(size = 20), 
+        plot.title = element_text(size = 20),
+        legend.text = element_text(size = 20), 
+        legend.title = element_text(size = 20)) 
